@@ -1,0 +1,37 @@
+---
+title: "Research"
+---
+
+## Research
+
+My research brings together photonic experiment design, optical hardware automation, and computational modeling. I am especially interested in projects where practical experimental constraints shape the underlying scientific questions.
+
+## Automated Alignment of HOM Interferometer
+
+Hong-Ou-Mandel interferometry is highly sensitive to spatial, temporal, and polarization mismatch, which makes careful alignment central to experimental performance. In this project, I explore automated procedures for recovering and maintaining high-visibility interference without relying entirely on manual adjustment. The broader goal is to make interferometric workflows more reproducible and less dependent on operator experience. This line of work also helps clarify which observables are most useful for closed-loop alignment and diagnostic control.
+
+`Keywords:` quantum optics, HOM interference, automation, alignment, control
+
+## Multi-Channel Fiber-to-Chip Alignment
+
+Fiber-to-chip coupling becomes increasingly demanding as the number of optical channels grows and alignment tolerances shrink. I study strategies for efficient multi-channel alignment that balance coupling efficiency, robustness, and experimental throughput. This includes thinking about search procedures, feedback signals, and packaging-aware constraints that matter in real photonic systems. The long-term motivation is to support scalable interfaces between laboratory instrumentation and integrated photonic devices.
+
+`Keywords:` integrated photonics, fiber array, coupling, packaging, optimization
+
+## Nonlinear Optical Neural Networks
+
+Optical neural networks offer a promising route for fast analog information processing, but their usefulness depends strongly on physical nonidealities and trainable nonlinear behavior. My interest in this area centers on architectures where nonlinear optical response meaningfully contributes to computation rather than serving as a purely decorative analogy to digital networks. I look at how device physics, loss, noise, and calibration influence expressivity and practical deployment. This project connects photonic hardware design with questions about learnability, efficiency, and model fidelity.
+
+`Keywords:` optical neural networks, nonlinear optics, analog computing, photonic ML
+
+## Scattering-Based Optical Computing
+
+Disordered and scattering media can transform light in rich high-dimensional ways, making them interesting candidates for physical information processing. In this project, I investigate how scattering systems can be used as computational substrates for tasks such as feature mixing, encoding, or approximate inference. A key question is how to characterize and control useful computation when the system is complex, partially random, and experimentally constrained. I am particularly interested in the boundary between physical complexity and usable algorithmic structure.
+
+`Keywords:` scattering media, wave physics, optical computing, physical AI, complexity
+
+## Open Quantum Systems and Surrogate Modeling
+
+Accurate simulation of open quantum systems can quickly become computationally expensive, especially when many parameters must be explored. I study surrogate modeling approaches that approximate relevant system behavior while preserving the structure needed for interpretation and prediction. These methods can support faster design iteration, parameter sweeps, and experiment-theory feedback loops. The broader goal is to build compact models that remain scientifically useful rather than merely numerically convenient.
+
+`Keywords:` open quantum systems, surrogate models, reduced-order modeling, simulation

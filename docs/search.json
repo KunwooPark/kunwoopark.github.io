@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research brings together photonic experiment design, optical hardware automation, and computational modeling. I am especially interested in projects where practical experimental constraints shape the underlying scientific questions."
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Research",
+    "section": "",
+    "text": "My research brings together photonic experiment design, optical hardware automation, and computational modeling. I am especially interested in projects where practical experimental constraints shape the underlying scientific questions."
+  },
+  {
+    "objectID": "research.html#automated-alignment-of-hom-interferometer",
+    "href": "research.html#automated-alignment-of-hom-interferometer",
+    "title": "Research",
+    "section": "Automated Alignment of HOM Interferometer",
+    "text": "Automated Alignment of HOM Interferometer\nHong-Ou-Mandel interferometry is highly sensitive to spatial, temporal, and polarization mismatch, which makes careful alignment central to experimental performance. In this project, I explore automated procedures for recovering and maintaining high-visibility interference without relying entirely on manual adjustment. The broader goal is to make interferometric workflows more reproducible and less dependent on operator experience. This line of work also helps clarify which observables are most useful for closed-loop alignment and diagnostic control.\nKeywords: quantum optics, HOM interference, automation, alignment, control"
+  },
+  {
+    "objectID": "research.html#multi-channel-fiber-to-chip-alignment",
+    "href": "research.html#multi-channel-fiber-to-chip-alignment",
+    "title": "Research",
+    "section": "Multi-Channel Fiber-to-Chip Alignment",
+    "text": "Multi-Channel Fiber-to-Chip Alignment\nFiber-to-chip coupling becomes increasingly demanding as the number of optical channels grows and alignment tolerances shrink. I study strategies for efficient multi-channel alignment that balance coupling efficiency, robustness, and experimental throughput. This includes thinking about search procedures, feedback signals, and packaging-aware constraints that matter in real photonic systems. The long-term motivation is to support scalable interfaces between laboratory instrumentation and integrated photonic devices.\nKeywords: integrated photonics, fiber array, coupling, packaging, optimization"
+  },
+  {
+    "objectID": "research.html#nonlinear-optical-neural-networks",
+    "href": "research.html#nonlinear-optical-neural-networks",
+    "title": "Research",
+    "section": "Nonlinear Optical Neural Networks",
+    "text": "Nonlinear Optical Neural Networks\nOptical neural networks offer a promising route for fast analog information processing, but their usefulness depends strongly on physical nonidealities and trainable nonlinear behavior. My interest in this area centers on architectures where nonlinear optical response meaningfully contributes to computation rather than serving as a purely decorative analogy to digital networks. I look at how device physics, loss, noise, and calibration influence expressivity and practical deployment. This project connects photonic hardware design with questions about learnability, efficiency, and model fidelity.\nKeywords: optical neural networks, nonlinear optics, analog computing, photonic ML"
+  },
+  {
+    "objectID": "research.html#scattering-based-optical-computing",
+    "href": "research.html#scattering-based-optical-computing",
+    "title": "Research",
+    "section": "Scattering-Based Optical Computing",
+    "text": "Scattering-Based Optical Computing\nDisordered and scattering media can transform light in rich high-dimensional ways, making them interesting candidates for physical information processing. In this project, I investigate how scattering systems can be used as computational substrates for tasks such as feature mixing, encoding, or approximate inference. A key question is how to characterize and control useful computation when the system is complex, partially random, and experimentally constrained. I am particularly interested in the boundary between physical complexity and usable algorithmic structure.\nKeywords: scattering media, wave physics, optical computing, physical AI, complexity"
+  },
+  {
+    "objectID": "research.html#open-quantum-systems-and-surrogate-modeling",
+    "href": "research.html#open-quantum-systems-and-surrogate-modeling",
+    "title": "Research",
+    "section": "Open Quantum Systems and Surrogate Modeling",
+    "text": "Open Quantum Systems and Surrogate Modeling\nAccurate simulation of open quantum systems can quickly become computationally expensive, especially when many parameters must be explored. I study surrogate modeling approaches that approximate relevant system behavior while preserving the structure needed for interpretation and prediction. These methods can support faster design iteration, parameter sweeps, and experiment-theory feedback loops. The broader goal is to build compact models that remain scientifically useful rather than merely numerically convenient.\nKeywords: open quantum systems, surrogate models, reduced-order modeling, simulation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "PhD student in integrated photonics, quantum optics, and optical computing.\nI am a PhD student working at the intersection of photonic hardware, quantum optical systems, and computation with complex physical media. My research focuses on building reliable experimental platforms, improving alignment and control in photonic systems, and exploring how optical dynamics can be used for learning and information processing. I am particularly interested in problems where careful physical modeling and practical instrumentation meet scalable computational ideas.\nI am currently affiliated with the Intelligent Wave Systems Laboratory in the Department of Electrical and Computer Engineering at Seoul National University. My recent work spans programmable photonic circuits, scattering-based optical computing, and inverse design methods for complex optical media."
+  },
+  {
+    "objectID": "index.html#kunwoo-park",
+    "href": "index.html#kunwoo-park",
+    "title": "Home",
+    "section": "",
+    "text": "PhD student in integrated photonics, quantum optics, and optical computing.\nI am a PhD student working at the intersection of photonic hardware, quantum optical systems, and computation with complex physical media. My research focuses on building reliable experimental platforms, improving alignment and control in photonic systems, and exploring how optical dynamics can be used for learning and information processing. I am particularly interested in problems where careful physical modeling and practical instrumentation meet scalable computational ideas.\nI am currently affiliated with the Intelligent Wave Systems Laboratory in the Department of Electrical and Computer Engineering at Seoul National University. My recent work spans programmable photonic circuits, scattering-based optical computing, and inverse design methods for complex optical media."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nIntegrated photonics and fiber-to-chip interfacing\nQuantum optics and Hong-Ou-Mandel interference\nOptical computing with nonlinear and scattering media\nExperimental automation and control for photonic platforms\nSurrogate modeling for open quantum systems"
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "Home",
+    "section": "Research Overview",
+    "text": "Research Overview\nMy current work spans both experimental and computational aspects of photonics. On the experimental side, I am interested in robust alignment, calibration, and automation methods for interferometric and chip-scale optical systems. On the computational side, I study how nonlinear optical dynamics, disordered scattering, and reduced-order models can support efficient inference, learning, and scientific understanding.\nThese directions are connected by a shared goal: making complex optical systems more controllable, more informative, and more useful as research tools and computing substrates."
+  },
+  {
+    "objectID": "index.html#selected-directions",
+    "href": "index.html#selected-directions",
+    "title": "Home",
+    "section": "Selected Directions",
+    "text": "Selected Directions\n\nExperimental Photonic Systems\nI work on improving the reliability of alignment-sensitive optical platforms, including HOM interferometers and multi-channel fiber-to-chip interfaces. This includes automation strategies that reduce manual tuning and make experiments more reproducible.\n\n\nOptical Computing\nI study how optical systems can perform computation through physical propagation, interference, scattering, and nonlinear response. The aim is to better understand when these systems provide practical computational advantages and how they can be modeled effectively.\n\n\nQuantum and Data-Driven Modeling\nI am also interested in surrogate and reduced-order approaches for open quantum systems, especially when direct simulation is expensive. These tools can help connect physical intuition, experimental data, and scalable prediction."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Email for CV (PDF)\nA downloadable PDF can be added here later. For now, the button links directly by email."
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "Email for CV (PDF)\nA downloadable PDF can be added here later. For now, the button links directly by email."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD student in Electrical and Computer Engineering, Seoul National University\nAffiliated with the Intelligent Wave Systems Laboratory\nAdditional degree details can be added here later if you want the page to function as a fuller CV summary"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nIntegrated photonics\nQuantum optics\nOptical computing\nExperimental automation for photonic systems\nOpen quantum systems and surrogate modeling"
+  },
+  {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "CV",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nKyuho Kim, Kunwoo Park, Hyungchul Park, Sunkyu Yu, Namkyoo Park, and Xianji Piao, “Programmable photonic unitary circuits for light computing,” Nanophotonics (2025).\nKunwoo Park, Ikbeom Lee, Seungmok Youn, and Sunkyu Yu, “Modularization of light scattering for photonic computing applications,” Proceedings of SPIE (2025).\nKunwoo Park, Ikbeom Lee, and Sunkyu Yu, “Inverse Design Method of Hyperuniform Materials using System Factorization,” CLEO-PR 2024 (2024)."
+  },
+  {
+    "objectID": "cv.html#awards-and-honors",
+    "href": "cv.html#awards-and-honors",
+    "title": "CV",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nPublic award information has not been added yet.\nThis section can be updated with fellowships, scholarships, travel awards, or honors later."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page lists selected publications, current preprints, and recent talks or posters. Every item below is formatted so that links to PDFs, DOIs, code repositories, and arXiv pages can be replaced easily later."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "This page lists selected publications, current preprints, and recent talks or posters. Every item below is formatted so that links to PDFs, DOIs, code repositories, and arXiv pages can be replaced easily later."
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nKyuho Kim, Kunwoo Park, Hyungchul Park, Sunkyu Yu, Namkyoo Park, and Xianji Piao, “Programmable photonic unitary circuits for light computing,” Nanophotonics 14(10), 1429-1449 (2025). DOI | Open Access\nKunwoo Park, Ikbeom Lee, Seungmok Youn, and Sunkyu Yu, “Modularization of light scattering for photonic computing applications,” Proceedings of SPIE 13581 (2025). DOI | Record\nKunwoo Park, Ikbeom Lee, and Sunkyu Yu, “Inverse Design Method of Hyperuniform Materials using System Factorization,” in Conference on Lasers and Electro-Optics/Pacific Rim (CLEO-PR 2024) (2024). Conference Record"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nKyuho Kim, Kunwoo Park, Hyungchul Park, Sunkyu Yu, Namkyoo Park, and Xianji Piao, “Programmable photonic unitary circuits for light computing,” arXiv (2024). arXiv\nAdditional manuscripts and in-preparation work will be added here as they become publicly available."
+  },
+  {
+    "objectID": "publications.html#talks-and-posters",
+    "href": "publications.html#talks-and-posters",
+    "title": "Publications",
+    "section": "Talks and Posters",
+    "text": "Talks and Posters\n\nInverse Design Method of Hyperuniform Materials using System Factorization, CLEO-PR 2024, Incheon, Republic of Korea (2024). Details\nDesign of Wave Scattering from Gain and Loss Disordered Materials, CLEO-PR 2024, Incheon, Republic of Korea (2024). DOI\nModularization of light scattering for photonic computing applications, SPIE proceedings contribution (2025). Record"
+  },
+  {
+    "objectID": "publications.html#notes",
+    "href": "publications.html#notes",
+    "title": "Publications",
+    "section": "Notes",
+    "text": "Notes\n\nThis page now includes publicly discoverable items associated with Kunwoo Park.\nYou can still replace or expand these entries later with PDFs, code repositories, and fuller metadata.\nIf you later want automatic citation management, this page can be upgraded to use a .bib file without changing the rest of the site."
+  }
+]

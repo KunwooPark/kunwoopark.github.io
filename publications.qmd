@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+## Publications
+
+This page lists selected publications, current preprints, and recent talks or posters. Every item below is formatted so that links to PDFs, DOIs, code repositories, and arXiv pages can be replaced easily later.
+
+## Selected Publications
+
+1. **Kyuho Kim, Kunwoo Park, Hyungchul Park, Sunkyu Yu, Namkyoo Park, and Xianji Piao**, "Programmable photonic unitary circuits for light computing," *Nanophotonics* 14(10), 1429-1449 (2025). [DOI](https://doi.org/10.1515/nanoph-2024-0602) | [Open Access](https://pmc.ncbi.nlm.nih.gov/articles/PMC12116228/)
+2. **Kunwoo Park, Ikbeom Lee, Seungmok Youn, and Sunkyu Yu**, "Modularization of light scattering for photonic computing applications," *Proceedings of SPIE* 13581 (2025). [DOI](https://doi.org/10.1117/12.3062195) | [Record](https://hdl.handle.net/10371/230818)
+3. **Kunwoo Park, Ikbeom Lee, and Sunkyu Yu**, "Inverse Design Method of Hyperuniform Materials using System Factorization," in *Conference on Lasers and Electro-Optics/Pacific Rim (CLEO-PR 2024)* (2024). [Conference Record](https://opg.optica.org/abstract.cfm?uri=CLEOPR-2024-Mo2J_2)
+
+## Preprints
+
+1. **Kyuho Kim, Kunwoo Park, Hyungchul Park, Sunkyu Yu, Namkyoo Park, and Xianji Piao**, "Programmable photonic unitary circuits for light computing," *arXiv* (2024). [arXiv](https://doi.org/10.48550/arXiv.2411.04417)
+2. Additional manuscripts and in-preparation work will be added here as they become publicly available.
+
+## Talks and Posters
+
+1. **Inverse Design Method of Hyperuniform Materials using System Factorization**, CLEO-PR 2024, Incheon, Republic of Korea (2024). [Details](https://opg.optica.org/abstract.cfm?uri=CLEOPR-2024-Mo2J_2)
+2. **Design of Wave Scattering from Gain and Loss Disordered Materials**, CLEO-PR 2024, Incheon, Republic of Korea (2024). [DOI](https://doi.org/10.1109/CLEO-PR60912.2024.10676414)
+3. **Modularization of light scattering for photonic computing applications**, SPIE proceedings contribution (2025). [Record](https://hdl.handle.net/10371/230818)
+
+## Notes
+
+- This page now includes publicly discoverable items associated with Kunwoo Park.
+- You can still replace or expand these entries later with PDFs, code repositories, and fuller metadata.
+- If you later want automatic citation management, this page can be upgraded to use a `.bib` file without changing the rest of the site.

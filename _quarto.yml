@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+    - images/
+    - .nojekyll
+
+website:
+  title: "Kunwoo Park"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "Kunwoo Park"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
