@@ -49,6 +49,20 @@ a:focus {
   text-decoration: none;
 }
 
+.about-entity .about-image {
+  display: block;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: min(78%, 260px);
+  height: min(78vw, 260px);
+  margin: 0 auto 1rem;
+  object-fit: contain;
+  object-position: center 12%;
+  padding: 0.35rem 1.1rem 0.15rem;
+  box-sizing: border-box;
+  transform: none;
+}
+
 h1,
 h2,
 h3,
