@@ -12,6 +12,14 @@ body {
   line-height: 1.7;
 }
 
+.quarto-container {
+  max-width: 1180px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 a {
   color: var(--site-accent);
 }
@@ -31,34 +39,51 @@ a:focus {
   font-weight: 500;
 }
 
-.about-entity .about-links {
+.navbar-brand-container {
+  display: none;
+}
+
+.about-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
   gap: 0.5rem;
 }
 
-.about-entity .about-link {
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
   border: 1px solid var(--site-border);
   border-radius: 999px;
   color: var(--site-accent);
+  font-weight: 500;
+  line-height: 1.2;
   padding: 0.35rem 0.8rem;
   text-decoration: none;
 }
 
-.about-entity .about-link:hover,
-.about-entity .about-link:focus {
+.about-link:hover,
+.about-link:focus {
   background-color: var(--site-surface);
   text-decoration: none;
 }
 
-.about-entity .about-image {
+.quarto-about-trestles .about-image,
+.quarto-about-jolla .about-image,
+.quarto-about-solana .about-image,
+.home-profile-image {
   display: block;
   background-color: #ffffff;
   border-radius: 50%;
-  width: min(78%, 260px);
-  height: min(78vw, 260px);
+  width: min(72vw, 235px);
+  height: min(72vw, 235px);
+  aspect-ratio: 1 / 1;
   margin: 0 auto 1rem;
-  object-fit: contain;
-  object-position: center 12%;
-  padding: 0.35rem 1.1rem 0.15rem;
+  object-fit: cover;
+  object-position: center 18%;
+  padding: 0;
   box-sizing: border-box;
   transform: none;
 }
@@ -79,7 +104,7 @@ h2 {
 
 p,
 li {
-  max-width: 760px;
+  max-width: 860px;
 }
 
 ul,
@@ -119,11 +144,86 @@ ol {
   color: var(--site-muted);
 }
 
+body.home-page .home-hero {
+  align-items: center;
+  column-gap: 3.25rem;
+  margin-top: 1.5rem;
+}
+
+body.home-page .home-hero h2 {
+  font-size: 2.35rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-top: 0;
+  border-top: none;
+}
+
+body.home-page .home-meta {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+body.home-page .home-meta p {
+  margin-bottom: 0.2rem;
+}
+
+body.home-page .home-intro {
+  max-width: 980px;
+  margin: 2rem auto 0;
+}
+
+body.home-page .home-intro p {
+  text-align: center;
+  font-size: 1.3rem;
+  line-height: 1.75;
+  margin: 0;
+}
+
+body.home-page .about-links {
+  margin-top: 2rem;
+}
+
+body.home-page #title-block-header,
+body.home-page .home-hero figcaption {
+  display: none;
+}
+
+body.home-page .about-link,
+body.home-page .about-link-text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body.publications-page {
+  font-size: 0.95rem;
+}
+
+body.publications-page .quarto-title-block .title {
+  font-size: 2rem;
+}
+
+body.publications-page h2 {
+  font-size: 1.45rem;
+}
+
+body.publications-page p,
+body.publications-page li {
+  font-size: 0.95rem;
+}
+
 @media (max-width: 991.98px) {
   .quarto-about-trestles .about-entity {
     border-right: none;
     border-bottom: 1px solid var(--site-border);
     margin-bottom: 1.5rem;
     padding-bottom: 1.5rem;
+  }
+
+  body.home-page .home-hero {
+    row-gap: 1rem;
+  }
+
+  body.home-page .home-hero h2,
+  body.home-page .home-meta {
+    text-align: center;
   }
 }

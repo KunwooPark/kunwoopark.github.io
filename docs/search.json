@@ -4,84 +4,49 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "This page provides short summaries of current and recent research directions. Replace each section below with your own project descriptions, figures, and references as needed."
+    "text": "Add a 3-5 sentence summary of this project here. You might describe the problem setting, the main technical idea, the experimental or theoretical contribution, and the broader motivation."
   },
   {
-    "objectID": "research.html#research",
-    "href": "research.html#research",
+    "objectID": "research.html#optical-computing",
+    "href": "research.html#optical-computing",
     "title": "Research",
     "section": "",
-    "text": "This page provides short summaries of current and recent research directions. Replace each section below with your own project descriptions, figures, and references as needed."
+    "text": "Add a 3-5 sentence summary of this project here. You might describe the problem setting, the main technical idea, the experimental or theoretical contribution, and the broader motivation."
   },
   {
-    "objectID": "research.html#automated-alignment-of-hom-interferometer",
-    "href": "research.html#automated-alignment-of-hom-interferometer",
+    "objectID": "research.html#disordered-photonics",
+    "href": "research.html#disordered-photonics",
     "title": "Research",
-    "section": "Automated Alignment of HOM Interferometer",
-    "text": "Automated Alignment of HOM Interferometer\nAdd a 3-5 sentence summary of this project here. You might describe the problem setting, the main technical idea, the experimental or theoretical contribution, and the broader motivation.\nKeywords: add keywords here"
+    "section": "Disordered Photonics",
+    "text": "Disordered Photonics\nAdd a 3-5 sentence summary of this project here. You can mention the system, the practical challenge, the approach you are taking, and what makes the work important."
   },
   {
-    "objectID": "research.html#multi-channel-fiber-to-chip-alignment",
-    "href": "research.html#multi-channel-fiber-to-chip-alignment",
+    "objectID": "research.html#topological-photonics",
+    "href": "research.html#topological-photonics",
     "title": "Research",
-    "section": "Multi-Channel Fiber-to-Chip Alignment",
-    "text": "Multi-Channel Fiber-to-Chip Alignment\nAdd a 3-5 sentence summary of this project here. You can mention the system, the practical challenge, the approach you are taking, and what makes the work important.\nKeywords: add keywords here"
+    "section": "Topological Photonics",
+    "text": "Topological Photonics\nAdd a 3-5 sentence summary of this project here. This can introduce the computing idea, the photonic platform, and the specific scientific or engineering questions you care about."
   },
   {
-    "objectID": "research.html#nonlinear-optical-neural-networks",
-    "href": "research.html#nonlinear-optical-neural-networks",
+    "objectID": "research.html#open-quantum-systems",
+    "href": "research.html#open-quantum-systems",
     "title": "Research",
-    "section": "Nonlinear Optical Neural Networks",
-    "text": "Nonlinear Optical Neural Networks\nAdd a 3-5 sentence summary of this project here. This can introduce the computing idea, the photonic platform, and the specific scientific or engineering questions you care about.\nKeywords: add keywords here"
-  },
-  {
-    "objectID": "research.html#scattering-based-optical-computing",
-    "href": "research.html#scattering-based-optical-computing",
-    "title": "Research",
-    "section": "Scattering-Based Optical Computing",
-    "text": "Scattering-Based Optical Computing\nAdd a 3-5 sentence summary of this project here. You might explain the role of scattering media, what computational task or physical mechanism matters most, and what direction the work is heading.\nKeywords: add keywords here"
-  },
-  {
-    "objectID": "research.html#open-quantum-systems-and-surrogate-modeling",
-    "href": "research.html#open-quantum-systems-and-surrogate-modeling",
-    "title": "Research",
-    "section": "Open Quantum Systems and Surrogate Modeling",
-    "text": "Open Quantum Systems and Surrogate Modeling\nAdd a 3-5 sentence summary of this project here. This section can describe the modeling problem, what kinds of surrogate or reduced-order methods are relevant, and why the topic matters.\nKeywords: add keywords here"
+    "section": "Open Quantum Systems",
+    "text": "Open Quantum Systems\nAdd a 3-5 sentence summary of this project here. You might explain the role of scattering media, what computational task or physical mechanism matters most, and what direction the work is heading."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "PhD student researcher\nAffiliation: Intelligent Wave Systems Laboratory, Department of Electrical and Computer Engineering, Seoul National University\nI am a PhD student researcher working in photonics and related areas. A fuller biography can be added here later with a short overview of academic background, current research focus, and broader interests."
+    "text": "Kunwoo Park\n\n\n\n\n\n\nPhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
   },
   {
     "objectID": "index.html#kunwoo-park",
     "href": "index.html#kunwoo-park",
     "title": "Home",
     "section": "",
-    "text": "PhD student researcher\nAffiliation: Intelligent Wave Systems Laboratory, Department of Electrical and Computer Engineering, Seoul National University\nI am a PhD student researcher working in photonics and related areas. A fuller biography can be added here later with a short overview of academic background, current research focus, and broader interests."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Home",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nResearch interest 1\nResearch interest 2\nResearch interest 3\nResearch interest 4\nResearch interest 5"
-  },
-  {
-    "objectID": "index.html#research-overview",
-    "href": "index.html#research-overview",
-    "title": "Home",
-    "section": "Research Overview",
-    "text": "Research Overview\nAdd a short research overview here. This section can summarize your broader agenda, how your projects connect, and what kinds of systems, questions, or methods you focus on."
-  },
-  {
-    "objectID": "index.html#selected-directions",
-    "href": "index.html#selected-directions",
-    "title": "Home",
-    "section": "Selected Directions",
-    "text": "Selected Directions\n\nExperimental Photonic Systems\nAdd 2-3 sentences here describing one representative direction or project area.\n\n\nOptical Computing\nAdd 2-3 sentences here describing another research direction, method, or long-term goal.\n\n\nQuantum and Data-Driven Modeling\nAdd 2-3 sentences here describing a third direction, collaboration area, or modeling theme."
+    "text": "PhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
   },
   {
     "objectID": "cv.html",
@@ -130,41 +95,34 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "This page lists publications, preprints, and talks. Replace the placeholder entries below with your preferred citation style and links."
-  },
-  {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
-    "title": "Publications",
-    "section": "",
-    "text": "This page lists publications, preprints, and talks. Replace the placeholder entries below with your preferred citation style and links."
-  },
-  {
-    "objectID": "publications.html#selected-publications",
-    "href": "publications.html#selected-publications",
-    "title": "Publications",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nAuthor list, “Paper title,” Journal or Conference Name volume(issue), pages (year). PDF | DOI | Code\nAuthor list, “Paper title,” Journal or Conference Name volume(issue), pages (year). PDF | DOI\nAuthor list, “Paper title,” Journal or Conference Name volume(issue), pages (year). PDF"
+    "text": "Gitae Lee, Seungmok Youn, Ikbeom Lee, Kunwoo Park, Duwhan Hwang, Xianji Piao*, Namkyoo Park* & Sunkyu Yu*. Non-Hermitian stealthy hyperuniformity.\narXiv:2602.09458\nKunwoo Park, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Hypergraph modelling of wave scattering to speed-up material design.\narXiv:2507.15329"
   },
   {
     "objectID": "publications.html#preprints",
     "href": "publications.html#preprints",
     "title": "Publications",
-    "section": "Preprints",
-    "text": "Preprints\n\nAuthor list, “Preprint title,” arXiv (year). arXiv | PDF\nAuthor list, “Working title,” Under review (year). Manuscript"
+    "section": "",
+    "text": "Gitae Lee, Seungmok Youn, Ikbeom Lee, Kunwoo Park, Duwhan Hwang, Xianji Piao*, Namkyoo Park* & Sunkyu Yu*. Non-Hermitian stealthy hyperuniformity.\narXiv:2602.09458\nKunwoo Park, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Hypergraph modelling of wave scattering to speed-up material design.\narXiv:2507.15329"
   },
   {
-    "objectID": "publications.html#talks-and-posters",
-    "href": "publications.html#talks-and-posters",
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
     "title": "Publications",
-    "section": "Talks and Posters",
-    "text": "Talks and Posters\n\nTalk title, Event or Seminar Name, Location (year). Slides\nPoster title, Conference Name, Location (year). Poster PDF\nTalk or poster title, Host Institution or Workshop, Location (year). Details"
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nSeungmok Youn, Kunwoo Park, Ikbeom Lee, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Phase-sensitive engineering of optical disordered materials using heterogeneous networks.\nAdvanced Optical Materials 14, e03499 (2026)\nKyuho Kim†, Kunwoo Park†, Hyungchul Park, Sunkyu Yu, Namkyoo Park* & Xianji Piao*. Programmable photonic unitary circuits for light computing.\nNanophotonics 14, 1429 (2025)"
   },
   {
-    "objectID": "publications.html#notes",
-    "href": "publications.html#notes",
+    "objectID": "publications.html#conferences",
+    "href": "publications.html#conferences",
     "title": "Publications",
-    "section": "Notes",
-    "text": "Notes\n\nReplace each placeholder with your preferred citation text and links.\nIf an item does not have a PDF, DOI, code repository, or slides, you can delete that link.\nIf you later want automatic citation management, this page can be upgraded to use a .bib file without changing the rest of the site."
+    "section": "Conferences",
+    "text": "Conferences\n\nIkbeom Lee, Kunwoo Park, Seungmok Youn & Sunkyu Yu*. Inverse design of microstructures of non-Hermitian scattering systems.\nSPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025\nKunwoo Park, Ikbeom Lee, Seungmok Youn & Sunkyu Yu*. Modularization of light scattering for photonic computing applications.\nSPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025\nIkbeom Lee, Kunwoo Park & Sunkyu Yu*. Design of wave scattering from gain and loss disordered materials.\nCLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024\nKunwoo Park, Ikbeom Lee & Sunkyu Yu*. Inverse design method of hyperuniform materials using system factorization.\nCLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024"
+  },
+  {
+    "objectID": "publications.html#patents",
+    "href": "publications.html#patents",
+    "title": "Publications",
+    "section": "Patents",
+    "text": "Patents\n\nNonlinear unitary optical device.\n비선형 유니터리 광학 소자.\nSunkyu Yu, Namkyoo Park, Xianji Piao & Kunwoo Park\nKR 10-2859166 (Application No. 10-2025-0005056; Provisional No. 10-2024-0179951)\nRegistration date: 2025.09.09; Filing date: 2025.01.13; Provisional filing date: 2024.12.05\nUS application: 19/048,370; Filing date: 2025.02.07\nEU application: 25156862.2; Filing date: 2025.02.10\n\n† Co-first authors.\n* Corresponding authors."
   }
 ]

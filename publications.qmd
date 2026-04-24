@@ -1,30 +1,44 @@
 ---
 title: "Publications"
+format:
+  html:
+    body-classes: publications-page
 ---
-
-## Publications
-
-This page lists publications, preprints, and talks. Replace the placeholder entries below with your preferred citation style and links.
-
-## Selected Publications
-
-1. **Author list**, "Paper title," *Journal or Conference Name* volume(issue), pages (year). [PDF](https://example.com) | [DOI](https://doi.org/example-doi) | [Code](https://github.com/example)
-2. **Author list**, "Paper title," *Journal or Conference Name* volume(issue), pages (year). [PDF](https://example.com) | [DOI](https://doi.org/example-doi)
-3. **Author list**, "Paper title," *Journal or Conference Name* volume(issue), pages (year). [PDF](https://example.com)
 
 ## Preprints
 
-1. **Author list**, "Preprint title," *arXiv* (year). [arXiv](https://arxiv.org/abs/example) | [PDF](https://example.com)
-2. **Author list**, "Working title," *Under review* (year). [Manuscript](https://example.com)
+1. Gitae Lee, Seungmok Youn, Ikbeom Lee, **Kunwoo Park**, Duwhan Hwang, Xianji Piao\*, Namkyoo Park\* & Sunkyu Yu\*. Non-Hermitian stealthy hyperuniformity.  
+   [arXiv:2602.09458](https://arxiv.org/abs/2602.09458)
+2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park\* & Sunkyu Yu\*. Hypergraph modelling of wave scattering to speed-up material design.  
+   [arXiv:2507.15329](https://arxiv.org/abs/2507.15329)
 
-## Talks and Posters
+## Journal Articles
 
-1. **Talk title**, Event or Seminar Name, Location (year). [Slides](https://example.com)
-2. **Poster title**, Conference Name, Location (year). [Poster PDF](https://example.com)
-3. **Talk or poster title**, Host Institution or Workshop, Location (year). [Details](https://example.com)
+1. Seungmok Youn, **Kunwoo Park**, Ikbeom Lee, Gitae Lee, Namkyoo Park\* & Sunkyu Yu\*. Phase-sensitive engineering of optical disordered materials using heterogeneous networks.  
+   [Advanced Optical Materials 14, e03499 (2026)](https://doi.org/10.1002/adom.202503499)
+2. Kyuho Kim<sup>&dagger;</sup>, **Kunwoo Park**<sup>&dagger;</sup>, Hyungchul Park, Sunkyu Yu, Namkyoo Park\* & Xianji Piao\*. Programmable photonic unitary circuits for light computing.  
+   [Nanophotonics 14, 1429 (2025)](https://doi.org/10.1515/nanoph-2024-0602)
 
-## Notes
+## Conferences
 
-- Replace each placeholder with your preferred citation text and links.
-- If an item does not have a PDF, DOI, code repository, or slides, you can delete that link.
-- If you later want automatic citation management, this page can be upgraded to use a `.bib` file without changing the rest of the site.
+1. Ikbeom Lee, **Kunwoo Park**, Seungmok Youn & Sunkyu Yu\*. Inverse design of microstructures of non-Hermitian scattering systems.  
+   [SPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025](https://doi.org/10.1117/12.3062322)
+2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn & Sunkyu Yu\*. Modularization of light scattering for photonic computing applications.  
+   [SPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025](https://doi.org/10.1117/12.3062195)
+3. Ikbeom Lee, **Kunwoo Park** & Sunkyu Yu\*. Design of wave scattering from gain and loss disordered materials.  
+   [CLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024](https://doi.org/10.1109/CLEO-PR60912.2024.10676414)
+4. **Kunwoo Park**, Ikbeom Lee & Sunkyu Yu\*. Inverse design method of hyperuniform materials using system factorization.  
+   [CLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024](https://doi.org/10.1109/CLEO-PR60912.2024.10676648)
+
+## Patents
+
+1. Nonlinear unitary optical device.  
+   비선형 유니터리 광학 소자.  
+   Sunkyu Yu, Namkyoo Park, Xianji Piao & **Kunwoo Park**  
+   KR 10-2859166 (Application No. 10-2025-0005056; Provisional No. 10-2024-0179951)  
+   Registration date: 2025.09.09; Filing date: 2025.01.13; Provisional filing date: 2024.12.05  
+   US application: 19/048,370; Filing date: 2025.02.07  
+   EU application: 25156862.2; Filing date: 2025.02.10
+
+<sup>&dagger;</sup> Co-first authors.  
+\* Corresponding authors.

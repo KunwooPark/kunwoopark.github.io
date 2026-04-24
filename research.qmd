@@ -2,36 +2,19 @@
 title: "Research"
 ---
 
-## Research
-
-This page provides short summaries of current and recent research directions. Replace each section below with your own project descriptions, figures, and references as needed.
-
-## Automated Alignment of HOM Interferometer
+## Optical Computing
 
 Add a 3-5 sentence summary of this project here. You might describe the problem setting, the main technical idea, the experimental or theoretical contribution, and the broader motivation.
 
-`Keywords:` add keywords here
-
-## Multi-Channel Fiber-to-Chip Alignment
+## Disordered Photonics
 
 Add a 3-5 sentence summary of this project here. You can mention the system, the practical challenge, the approach you are taking, and what makes the work important.
 
-`Keywords:` add keywords here
-
-## Nonlinear Optical Neural Networks
+## Topological Photonics
 
 Add a 3-5 sentence summary of this project here. This can introduce the computing idea, the photonic platform, and the specific scientific or engineering questions you care about.
 
-`Keywords:` add keywords here
-
-## Scattering-Based Optical Computing
+## Open Quantum Systems
 
 Add a 3-5 sentence summary of this project here. You might explain the role of scattering media, what computational task or physical mechanism matters most, and what direction the work is heading.
 
-`Keywords:` add keywords here
-
-## Open Quantum Systems and Surrogate Modeling
-
-Add a 3-5 sentence summary of this project here. This section can describe the modeling problem, what kinds of surrogate or reduced-order methods are relevant, and why the topic matters.
-
-`Keywords:` add keywords here

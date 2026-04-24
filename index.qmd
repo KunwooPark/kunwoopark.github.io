@@ -1,54 +1,38 @@
 ---
 title: "Home"
-about:
-  template: trestles
-  image: "images/profile.jpg"
-  image-shape: round
-  links:
-    - icon: envelope
-      text: Email
-      href: "mailto:imotdnif43@snu.ac.kr"
-    - icon: github
-      text: GitHub
-      href: "https://github.com/KunwooPark"
-    - icon: linkedin
-      text: LinkedIn
-      href: "https://www.linkedin.com/in/kunwoo-park-38ba13329/"
-    - icon: mortarboard
-      text: Google Scholar
-      href: "https://scholar.google.com/citations?user=KrNjLQgAAAAJ"
+format:
+  html:
+    title-block: false
+    body-classes: home-page
 ---
 
+:::: {.columns .home-hero}
+::: {.column width="36%"}
+![Kunwoo Park](images/profile.jpg){.home-profile-image}
+:::
+
+::: {.column width="64%"}
 ## Kunwoo Park
 
-PhD student researcher
+::: {.home-meta}
+PhD Student
 
-Affiliation: Intelligent Wave Systems Laboratory, Department of Electrical and Computer Engineering, Seoul National University
+Department of Electrical and Computer Engineering
 
-I am a PhD student researcher working in photonics and related areas. A fuller biography can be added here later with a short overview of academic background, current research focus, and broader interests.
+Seoul National University
 
-## Research Interests
+Supervisor: [Sunkyu Yu](https://waves.snu.ac.kr)
+:::
+:::
+::::
 
-- Optical Computing
-- Disordered Photonics
-- Topological Photonics
-- Open Quantum Systems
-- AI for Science
+::: {.home-intro}
+I conduct theoretical and experimental research in photonics and related fields, aiming to realize ***AI computing with light***.
+:::
 
-## Research Overview
-
-Add a short research overview here. This section can summarize your broader agenda, how your projects connect, and what kinds of systems, questions, or methods you focus on.
-
-## Selected Directions
-
-### Hypergraph Models of Scattering for Accelerating Material Design
-
-Add 2-3 sentences here describing one representative direction or project area.
-
-### Monolayer Non-Abelian Integrated Photonics via Floquet Engineering
-
-Add 2-3 sentences here describing another research direction, method, or long-term goal.
-
-### Expressivity and Trainability of All-Optical Neural Networks
-
-Add 2-3 sentences here describing a third direction, collaboration area, or modeling theme.
+::: {.about-links}
+<a href="mailto:imotdnif43@snu.ac.kr" class="about-link"><i class="bi bi-envelope"></i> <span class="about-link-text">Email</span></a>
+<a href="https://github.com/KunwooPark" class="about-link"><i class="bi bi-github"></i> <span class="about-link-text">GitHub</span></a>
+<a href="https://www.linkedin.com/in/kunwoo-park-38ba13329/" class="about-link"><i class="bi bi-linkedin"></i> <span class="about-link-text">LinkedIn</span></a>
+<a href="https://scholar.google.com/citations?user=KrNjLQgAAAAJ" class="about-link"><i class="bi bi-mortarboard"></i> <span class="about-link-text">Google Scholar</span></a>
+:::
