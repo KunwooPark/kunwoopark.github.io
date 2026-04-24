@@ -14,6 +14,7 @@ project:
 
 website:
   title: "Kunwoo Park"
+  favicon: park.png
   navbar:
     left:
       - href: index.qmd
@@ -24,9 +25,6 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
-  page-footer:
-    left: "Kunwoo Park"
-    right: "Built with Quarto"
 
 format:
   html:
