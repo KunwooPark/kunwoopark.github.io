@@ -1,34 +1,8 @@
 ---
 title: "CV"
+format:
+  html:
+    toc: false
 ---
 
-## Curriculum Vitae
-
-[Download CV (PDF)](files/your-cv.pdf){.cv-button}
-
-Replace this link with your actual CV PDF when ready.
-
-## Education
-
-- PhD in Field, University, expected year
-- MS in Field, University, year
-- BS in Field, University, year
-
-## Research Interests
-
-- Integrated photonics
-- Quantum optics
-- Optical computing
-- Experimental automation for photonic systems
-- Open quantum systems and surrogate modeling
-
-## Selected Publications
-
-1. **Author list**, "Paper title," *Venue* (year).
-2. **Author list**, "Paper title," *Venue* (year).
-3. **Author list**, "Paper title," *Venue* (year).
-
-## Awards and Honors
-
-- Award or honor, year
-- Fellowship, scholarship, or travel award, year
+[Download CV (PDF)](cv-pdf.pdf){.cv-button}

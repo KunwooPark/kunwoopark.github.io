@@ -1,0 +1,146 @@
+---
+format:
+  pdf:
+    documentclass: article
+    pdf-engine: lualatex
+    fontsize: 10pt
+    geometry:
+      - top=0.72in
+      - bottom=0.78in
+      - left=0.82in
+      - right=0.82in
+    colorlinks: true
+    urlcolor: snublue
+    linkcolor: snublue
+    toc: false
+    number-sections: false
+    include-in-header:
+      text: |
+        \usepackage{enumitem}
+        \usepackage{titlesec}
+        \usepackage{xcolor}
+        \usepackage{tabularx}
+        \usepackage{array}
+        \usepackage{ragged2e}
+        \usepackage{setspace}
+        \definecolor{snublue}{HTML}{1F3A5F}
+        \pagestyle{empty}
+        \setstretch{1.08}
+        \setlength{\parindent}{0pt}
+        \setlength{\parskip}{4pt}
+        \setlist[itemize]{leftmargin=1.2em, itemsep=2.5pt, topsep=3pt, parsep=0pt}
+        \setlist[enumerate]{leftmargin=1.45em, itemsep=3pt, topsep=3pt, parsep=0pt}
+        \titleformat{\section}
+          {\large\bfseries\color{snublue}}
+          {}
+          {0pt}
+          {}
+          [\titlerule]
+        \titlespacing*{\section}{0pt}{1.05em}{0.45em}
+        \titleformat{\subsection}
+          {\normalsize\bfseries}
+          {}
+          {0pt}
+          {}
+        \titlespacing*{\subsection}{0pt}{0.7em}{0.2em}
+---
+
+\begin{center}
+{\LARGE \textbf{Kunwoo Park}}\\[2pt]
+Ph.D. Student, Department of Electrical and Computer Engineering\\
+Seoul National University\\[5pt]
+\href{mailto:imotdnif43@snu.ac.kr}{imotdnif43@snu.ac.kr}
+\quad | \quad
+\href{https://github.com/KunwooPark}{github.com/KunwooPark}
+\quad | \quad
+\href{https://www.linkedin.com/in/kunwoo-park-38ba13329/}{LinkedIn}
+\quad | \quad
+\href{https://scholar.google.com/citations?user=KrNjLQgAAAAJ}{Google Scholar}
+\end{center}
+
+## Research Interests
+
+Optical computing; disordered photonics; topological photonics; open quantum systems.
+
+## Education
+
+\begin{tabularx}{\textwidth}{@{} X r @{}}
+\textbf{Integrated M.S./Ph.D.}, Department of Electrical and Computer Engineering & 2024.09 -- present \\
+Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Yu} \quad (Expected: 2029.08) & \\[4pt]
+\textbf{B.S.}, Department of Electrical and Computer Engineering & 2018.03 -- 2024.08 \\
+Seoul National University & \\[4pt]
+\textbf{Military Service}, Republic of Korea Army & 2020.12 -- 2022.06 \\
+\end{tabularx}
+
+## Academic Positions
+
+- Placeholder.
+
+## Research Experience
+
+- **Optical Computing.** Placeholder.
+- **Disordered Photonics.** Placeholder.
+- **Topological Photonics.** Placeholder.
+- **Open Quantum Systems.** Placeholder.
+
+## Publications
+
+### Preprints
+
+1. Gitae Lee, Seungmok Youn, Ikbeom Lee, **Kunwoo Park**, Duwhan Hwang, Xianji Piao\textsuperscript{*}, Namkyoo Park\textsuperscript{*} and Sunkyu Yu\textsuperscript{*}. Non-Hermitian stealthy hyperuniformity. [arXiv:2602.09458](https://arxiv.org/abs/2602.09458).
+
+2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park\textsuperscript{*} and Sunkyu Yu\textsuperscript{*}. Hypergraph modelling of wave scattering to speed-up material design. [arXiv:2507.15329](https://arxiv.org/abs/2507.15329).
+
+### Journal Articles
+
+1. Seungmok Youn, **Kunwoo Park**, Ikbeom Lee, Gitae Lee, Namkyoo Park\textsuperscript{*} and Sunkyu Yu\textsuperscript{*}. Phase-sensitive engineering of optical disordered materials using heterogeneous networks. *Advanced Optical Materials* 14, e03499 (2026). [doi:10.1002/adom.202503499](https://doi.org/10.1002/adom.202503499).
+
+2. Kyuho Kim\textsuperscript{\dagger}, **Kunwoo Park**\textsuperscript{\dagger}, Hyungchul Park, Sunkyu Yu, Namkyoo Park\textsuperscript{*} and Xianji Piao\textsuperscript{*}. Programmable photonic unitary circuits for light computing. *Nanophotonics* 14, 1429 (2025). [doi:10.1515/nanoph-2024-0602](https://doi.org/10.1515/nanoph-2024-0602).
+
+### Conference Proceedings
+
+1. Ikbeom Lee, **Kunwoo Park**, Seungmok Youn and Sunkyu Yu\textsuperscript{*}. Inverse design of microstructures of non-Hermitian scattering systems. SPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025. [doi:10.1117/12.3062322](https://doi.org/10.1117/12.3062322).
+
+2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn and Sunkyu Yu\textsuperscript{*}. Modularization of light scattering for photonic computing applications. SPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025. [doi:10.1117/12.3062195](https://doi.org/10.1117/12.3062195).
+
+3. Ikbeom Lee, **Kunwoo Park** and Sunkyu Yu\textsuperscript{*}. Design of wave scattering from gain and loss disordered materials. CLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024. [doi:10.1109/CLEO-PR60912.2024.10676414](https://doi.org/10.1109/CLEO-PR60912.2024.10676414).
+
+4. **Kunwoo Park**, Ikbeom Lee and Sunkyu Yu\textsuperscript{*}. Inverse design method of hyperuniform materials using system factorization. CLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024. [doi:10.1109/CLEO-PR60912.2024.10676648](https://doi.org/10.1109/CLEO-PR60912.2024.10676648).
+
+## Patents
+
+1. Nonlinear unitary optical device. Sunkyu Yu, Namkyoo Park, Xianji Piao and **Kunwoo Park**. KR 10-2859166; US application 19/048,370; EU application 25156862.2.
+
+## Grants and Fellowships
+
+\begin{tabularx}{\textwidth}{@{} X r @{}}
+Graduate Research Encouragement Grant (석사과정생연구장려금지원사업) & 2025 -- present \\
+\textit{Principal Investigator} & \\
+\end{tabularx}
+
+## Teaching
+
+\begin{tabularx}{\textwidth}{@{} X r @{}}
+\textbf{Application of Quantum Mechanics} (Graduate), Teaching Assistant & Spring 2025 \\
+Seoul National University & \\[4pt]
+\textbf{Topics in Electro-physics} (Graduate), Teaching Assistant & Spring 2025 \\
+Seoul National University & \\
+\end{tabularx}
+
+## Technical Skills
+
+- **Theory and modeling:** Placeholder.
+- **Computation:** Placeholder.
+- **Experimentation:** Placeholder.
+- **Software:** Placeholder.
+
+## Professional Service
+
+- Placeholder.
+
+## References
+
+Available upon request.
+
+\vspace{0.3em}
+\footnotesize{\textsuperscript{\dagger} Co-first authors. \textsuperscript{*} Corresponding authors.}

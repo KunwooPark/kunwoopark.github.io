@@ -1,96 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Add a 3-5 sentence summary of this project here. You might describe the problem setting, the main technical idea, the experimental or theoretical contribution, and the broader motivation."
-  },
-  {
-    "objectID": "research.html#optical-computing",
-    "href": "research.html#optical-computing",
-    "title": "Research",
-    "section": "",
-    "text": "Add a 3-5 sentence summary of this project here. You might describe the problem setting, the main technical idea, the experimental or theoretical contribution, and the broader motivation."
-  },
-  {
-    "objectID": "research.html#disordered-photonics",
-    "href": "research.html#disordered-photonics",
-    "title": "Research",
-    "section": "Disordered Photonics",
-    "text": "Disordered Photonics\nAdd a 3-5 sentence summary of this project here. You can mention the system, the practical challenge, the approach you are taking, and what makes the work important."
-  },
-  {
-    "objectID": "research.html#topological-photonics",
-    "href": "research.html#topological-photonics",
-    "title": "Research",
-    "section": "Topological Photonics",
-    "text": "Topological Photonics\nAdd a 3-5 sentence summary of this project here. This can introduce the computing idea, the photonic platform, and the specific scientific or engineering questions you care about."
-  },
-  {
-    "objectID": "research.html#open-quantum-systems",
-    "href": "research.html#open-quantum-systems",
-    "title": "Research",
-    "section": "Open Quantum Systems",
-    "text": "Open Quantum Systems\nAdd a 3-5 sentence summary of this project here. You might explain the role of scattering media, what computational task or physical mechanism matters most, and what direction the work is heading."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Kunwoo Park\n\n\n\n\n\n\nPhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
-  },
-  {
-    "objectID": "index.html#kunwoo-park",
-    "href": "index.html#kunwoo-park",
-    "title": "Home",
-    "section": "",
-    "text": "PhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)\nReplace this link with your actual CV PDF when ready."
-  },
-  {
-    "objectID": "cv.html#curriculum-vitae",
-    "href": "cv.html#curriculum-vitae",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)\nReplace this link with your actual CV PDF when ready."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nPhD in Field, University, expected year\nMS in Field, University, year\nBS in Field, University, year"
-  },
-  {
-    "objectID": "cv.html#research-interests",
-    "href": "cv.html#research-interests",
-    "title": "CV",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nIntegrated photonics\nQuantum optics\nOptical computing\nExperimental automation for photonic systems\nOpen quantum systems and surrogate modeling"
-  },
-  {
-    "objectID": "cv.html#selected-publications",
-    "href": "cv.html#selected-publications",
-    "title": "CV",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nAuthor list, “Paper title,” Venue (year).\nAuthor list, “Paper title,” Venue (year).\nAuthor list, “Paper title,” Venue (year)."
-  },
-  {
-    "objectID": "cv.html#awards-and-honors",
-    "href": "cv.html#awards-and-honors",
-    "title": "CV",
-    "section": "Awards and Honors",
-    "text": "Awards and Honors\n\nAward or honor, year\nFellowship, scholarship, or travel award, year"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -124,5 +33,61 @@
     "title": "Publications",
     "section": "Patents",
     "text": "Patents\n\nNonlinear unitary optical device.\n비선형 유니터리 광학 소자.\nSunkyu Yu, Namkyoo Park, Xianji Piao & Kunwoo Park\nKR 10-2859166 (Application No. 10-2025-0005056; Provisional No. 10-2024-0179951)\nRegistration date: 2025.09.09; Filing date: 2025.01.13; Provisional filing date: 2024.12.05\nUS application: 19/048,370; Filing date: 2025.02.07\nEU application: 25156862.2; Filing date: 2025.02.10\n\n† Co-first authors.\n* Corresponding authors."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Kunwoo Park\n\n\n\n\n\n\nPhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
+  },
+  {
+    "objectID": "index.html#kunwoo-park",
+    "href": "index.html#kunwoo-park",
+    "title": "Home",
+    "section": "",
+    "text": "PhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Description forthcoming."
+  },
+  {
+    "objectID": "research.html#optical-computing",
+    "href": "research.html#optical-computing",
+    "title": "Research",
+    "section": "",
+    "text": "Description forthcoming."
+  },
+  {
+    "objectID": "research.html#disordered-photonics",
+    "href": "research.html#disordered-photonics",
+    "title": "Research",
+    "section": "Disordered Photonics",
+    "text": "Disordered Photonics\n\nDescription forthcoming."
+  },
+  {
+    "objectID": "research.html#topological-photonics",
+    "href": "research.html#topological-photonics",
+    "title": "Research",
+    "section": "Topological Photonics",
+    "text": "Topological Photonics\nDescription forthcoming."
+  },
+  {
+    "objectID": "research.html#open-quantum-systems",
+    "href": "research.html#open-quantum-systems",
+    "title": "Research",
+    "section": "Open Quantum Systems",
+    "text": "Open Quantum Systems\nDescription forthcoming."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
   }
 ]
