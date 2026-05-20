@@ -7,9 +7,11 @@ format:
 
 ## Preprints
 
-1. Gitae Lee, Seungmok Youn, Ikbeom Lee, **Kunwoo Park**, Duwhan Hwang, Xianji Piao\*, Namkyoo Park\* & Sunkyu Yu\*. Non-Hermitian stealthy hyperuniformity.  
+1. Jungyoon Kim<sup>&dagger;</sup>, Kyoho Kim<sup>&dagger;</sup>, **Kunwoo Park**, Namkyoo Park\* & Sunkyu Yu\*. Task-specific programming of chaos in neural circuits.
+   [arXiv:2605.19465](https://arxiv.org/abs/2605.19465)
+2. Gitae Lee, Seungmok Youn, Ikbeom Lee, **Kunwoo Park**, Duwhan Hwang, Xianji Piao\*, Namkyoo Park\* & Sunkyu Yu\*. Non-Hermitian stealthy hyperuniformity.  
    [arXiv:2602.09458](https://arxiv.org/abs/2602.09458)
-2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park\* & Sunkyu Yu\*. Hypergraph modelling of wave scattering to speed-up material design.  
+3. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park\* & Sunkyu Yu\*. Hypergraph modelling of wave scattering to speed-up material design.  
    [arXiv:2507.15329](https://arxiv.org/abs/2507.15329)
 
 ## Journal Articles
