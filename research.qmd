@@ -6,10 +6,19 @@ title: "Research"
 
 ![](images/Integrated%20Photonics.jpg){.research-image fig-alt="Integrated photonics research image"}
 
+Photonic integrated circuits provide a scalable hardware platform for AI computing with light ([Nanophotonics 14, 1429 (2025)](https://doi.org/10.1515/nanoph-2024-0602)).  
+I design and experimentally demonstrate photonic circuits, while developing theoretical frameworks for implementing all-optical neural networks.
+
 ## Disordered Photonics
 
 ![](images/Disordered%20Photonics.jpg){.research-image fig-alt="Disordered photonics research image"}
 
+Engineered disorder offers a powerful route to controlling light in complex photonic media, yet conventional design approaches often face severe scalability limits.  
+I develop hypergraph models of light scattering to enable sublinear-scaling design of large-scale disordered photonic systems ([arXiv:2507.15329](https://arxiv.org/abs/2507.15329)).
+
 ## Topological Photonics
 
 ![](images/Topological%20Photonics.jpg){.research-image fig-alt="Topological photonics research image"}
+
+Topological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.  
+I develop photonic devices that exploit non-Abelian topology to realize robust and programmable control of light.

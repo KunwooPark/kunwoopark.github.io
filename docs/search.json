@@ -49,18 +49,32 @@
     "text": "PhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Photonic integrated circuits provide a scalable hardware platform for AI computing with light (Nanophotonics 14, 1429 (2025)).\nI design and experimentally demonstrate photonic circuits, while developing theoretical frameworks for implementing all-optical neural networks."
+  },
+  {
+    "objectID": "research.html#integrated-photonics",
+    "href": "research.html#integrated-photonics",
+    "title": "Research",
+    "section": "",
+    "text": "Photonic integrated circuits provide a scalable hardware platform for AI computing with light (Nanophotonics 14, 1429 (2025)).\nI design and experimentally demonstrate photonic circuits, while developing theoretical frameworks for implementing all-optical neural networks."
+  },
+  {
     "objectID": "research.html#disordered-photonics",
     "href": "research.html#disordered-photonics",
     "title": "Research",
     "section": "Disordered Photonics",
-    "text": "Disordered Photonics"
+    "text": "Disordered Photonics\n\nEngineered disorder offers a powerful route to controlling light in complex photonic media, yet conventional design approaches often face severe scalability limits.\nI develop hypergraph models of light scattering to enable sublinear-scaling design of large-scale disordered photonic systems (arXiv:2507.15329)."
   },
   {
     "objectID": "research.html#topological-photonics",
     "href": "research.html#topological-photonics",
     "title": "Research",
     "section": "Topological Photonics",
-    "text": "Topological Photonics"
+    "text": "Topological Photonics\n\nTopological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.\nI develop photonic devices that exploit non-Abelian topology to realize robust and programmable control of light."
   },
   {
     "objectID": "cv.html",
