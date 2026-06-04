@@ -2,22 +2,14 @@
 title: "Research"
 ---
 
-## Optical Computing
+## Integrated Photonics
 
-![](images/Optical%20Computing.jpg){.research-image fig-alt="Optical computing research image"}
-
-Description forthcoming.
+![](images/Integrated%20Photonics.jpg){.research-image fig-alt="Integrated photonics research image"}
 
 ## Disordered Photonics
 
 ![](images/Disordered%20Photonics.jpg){.research-image fig-alt="Disordered photonics research image"}
 
-Description forthcoming.
-
 ## Topological Photonics
 
-Description forthcoming.
-
-## Open Quantum Systems
-
-Description forthcoming.
+![](images/Topological%20Photonics.jpg){.research-image fig-alt="Topological photonics research image"}

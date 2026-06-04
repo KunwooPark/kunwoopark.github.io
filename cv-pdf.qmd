@@ -60,7 +60,7 @@ Seoul National University\\[5pt]
 
 ## Research Interests
 
-Optical computing; disordered photonics; topological photonics; open quantum systems.
+Integrated photonics; Disordered photonics; Topological photonics.
 
 ## Education
 
@@ -72,44 +72,49 @@ Seoul National University & \\[4pt]
 \textbf{Military Service}, Republic of Korea Army & 2020.12 -- 2022.06 \\
 \end{tabularx}
 
-## Academic Positions
-
-- Placeholder.
-
 ## Research Experience
 
-- **Optical Computing.** Placeholder.
+- **Integrated Photonics.** Placeholder.
 - **Disordered Photonics.** Placeholder.
 - **Topological Photonics.** Placeholder.
-- **Open Quantum Systems.** Placeholder.
 
 ## Publications
 
 ### Preprints
 
-1. Gitae Lee, Seungmok Youn, Ikbeom Lee, **Kunwoo Park**, Duwhan Hwang, Xianji Piao\textsuperscript{*}, Namkyoo Park\textsuperscript{*} and Sunkyu Yu\textsuperscript{*}. Non-Hermitian stealthy hyperuniformity. [arXiv:2602.09458](https://arxiv.org/abs/2602.09458).
-
-2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park\textsuperscript{*} and Sunkyu Yu\textsuperscript{*}. Hypergraph modelling of wave scattering to speed-up material design. [arXiv:2507.15329](https://arxiv.org/abs/2507.15329).
+1. Jungyoon Kim<sup>&dagger;</sup>, Kyoho Kim<sup>&dagger;</sup>, **Kunwoo Park**, Namkyoo Park\* & Sunkyu Yu\*. Task-specific programming of chaos in neural circuits.  
+   [arXiv:2605.19465](https://arxiv.org/abs/2605.19465)
+2. Gitae Lee<sup>&dagger;</sup>, Seungmok Youn<sup>&dagger;</sup>, Ikbeom Lee<sup>&dagger;</sup>, **Kunwoo Park**, Duwhan Hwang, Xianji Piao\*, Namkyoo Park\* & Sunkyu Yu\*. Non-Hermitian stealthy hyperuniformity.  
+   [arXiv:2602.09458](https://arxiv.org/abs/2602.09458)
+3. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park\* & Sunkyu Yu\*. Hypergraph modelling of wave scattering to speed-up material design.  
+   [arXiv:2507.15329](https://arxiv.org/abs/2507.15329)
 
 ### Journal Articles
 
-1. Seungmok Youn, **Kunwoo Park**, Ikbeom Lee, Gitae Lee, Namkyoo Park\textsuperscript{*} and Sunkyu Yu\textsuperscript{*}. Phase-sensitive engineering of optical disordered materials using heterogeneous networks. *Advanced Optical Materials* 14, e03499 (2026). [doi:10.1002/adom.202503499](https://doi.org/10.1002/adom.202503499).
+1. Seungmok Youn, **Kunwoo Park**, Ikbeom Lee, Gitae Lee, Namkyoo Park\* & Sunkyu Yu\*. Phase-sensitive engineering of optical disordered materials using heterogeneous networks.  
+   [Advanced Optical Materials 14, e03499 (2026)](https://doi.org/10.1002/adom.202503499)
+2. Kyuho Kim<sup>&dagger;</sup>, **Kunwoo Park**<sup>&dagger;</sup>, Hyungchul Park, Sunkyu Yu, Namkyoo Park\* & Xianji Piao\*. Programmable photonic unitary circuits for light computing.  
+   [Nanophotonics 14, 1429 (2025)](https://doi.org/10.1515/nanoph-2024-0602)
 
-2. Kyuho Kim\textsuperscript{\dagger}, **Kunwoo Park**\textsuperscript{\dagger}, Hyungchul Park, Sunkyu Yu, Namkyoo Park\textsuperscript{*} and Xianji Piao\textsuperscript{*}. Programmable photonic unitary circuits for light computing. *Nanophotonics* 14, 1429 (2025). [doi:10.1515/nanoph-2024-0602](https://doi.org/10.1515/nanoph-2024-0602).
+### Conferences
 
-### Conference Proceedings
+1. Ikbeom Lee, **Kunwoo Park**, Seungmok Youn & Sunkyu Yu\*. Inverse design of microstructures of non-Hermitian scattering systems.  
+   [SPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025](https://doi.org/10.1117/12.3062322)
+2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn & Sunkyu Yu\*. Modularization of light scattering for photonic computing applications.  
+   [SPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025](https://doi.org/10.1117/12.3062195)
+3. Ikbeom Lee, **Kunwoo Park** & Sunkyu Yu\*. Design of wave scattering from gain and loss disordered materials.  
+   [CLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024](https://doi.org/10.1109/CLEO-PR60912.2024.10676414)
+4. **Kunwoo Park**, Ikbeom Lee & Sunkyu Yu\*. Inverse design method of hyperuniform materials using system factorization.  
+   [CLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024](https://doi.org/10.1109/CLEO-PR60912.2024.10676648)
 
-1. Ikbeom Lee, **Kunwoo Park**, Seungmok Youn and Sunkyu Yu\textsuperscript{*}. Inverse design of microstructures of non-Hermitian scattering systems. SPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025. [doi:10.1117/12.3062322](https://doi.org/10.1117/12.3062322).
+### Patents
 
-2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn and Sunkyu Yu\textsuperscript{*}. Modularization of light scattering for photonic computing applications. SPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025. [doi:10.1117/12.3062195](https://doi.org/10.1117/12.3062195).
-
-3. Ikbeom Lee, **Kunwoo Park** and Sunkyu Yu\textsuperscript{*}. Design of wave scattering from gain and loss disordered materials. CLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024. [doi:10.1109/CLEO-PR60912.2024.10676414](https://doi.org/10.1109/CLEO-PR60912.2024.10676414).
-
-4. **Kunwoo Park**, Ikbeom Lee and Sunkyu Yu\textsuperscript{*}. Inverse design method of hyperuniform materials using system factorization. CLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024. [doi:10.1109/CLEO-PR60912.2024.10676648](https://doi.org/10.1109/CLEO-PR60912.2024.10676648).
-
-## Patents
-
-1. Nonlinear unitary optical device. Sunkyu Yu, Namkyoo Park, Xianji Piao and **Kunwoo Park**. KR 10-2859166; US application 19/048,370; EU application 25156862.2.
+1. Nonlinear unitary optical device.  
+   Sunkyu Yu, Namkyoo Park, Xianji Piao & **Kunwoo Park**  
+   KR 10-2859166 (Application No. 10-2025-0005056; Provisional No. 10-2024-0179951)  
+   Registration date: 2025.09.09; Filing date: 2025.01.13; Provisional filing date: 2024.12.05  
+   US application: 19/048,370; Filing date: 2025.02.07  
+   EU application: 25156862.2; Filing date: 2025.02.10
 
 ## Grants and Fellowships
 
