@@ -13,8 +13,11 @@ I design and experimentally demonstrate photonic circuits, while developing theo
 
 ![](images/Disordered%20Photonics.jpg){.research-image fig-alt="Disordered photonics research image"}
 
-Engineered disorder offers a powerful route to controlling light in complex photonic media, yet conventional design approaches often face severe scalability limits.  
-I develop hypergraph models of light scattering to enable sublinear-scaling design of large-scale disordered photonic systems ([arXiv:2507.15329](https://arxiv.org/abs/2507.15329)).
+Engineered disorder offers new ways to control light in complex photonic media. My research focuses on scalable models and design methods for these systems, including hypergraph models of wave scattering.
+
+Our recent work extends hyperuniformity and stealthiness to non-Hermitian materials, revealing how correlations between gain and loss enable directional control of scattering.
+
+Related publications: [Hypergraph modelling](https://arxiv.org/abs/2507.15329) · [Non-Hermitian stealthy hyperuniformity](https://doi.org/10.1002/advs.77054)
 
 ## Topological Photonics
 

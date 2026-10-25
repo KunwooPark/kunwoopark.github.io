@@ -1,0 +1,6 @@
+1. **Kunwoo Park**, Gitae Lee, Ikbeom Lee, Seungmok Youn, Namkyoo Park & Sunkyu Yu. Large-Scale Optical Material Design via Hypergraph Models.\
+   Optics and Photonics Congress 2026, W3C-V.01, Jeju, Republic of Korea, 22 July 2026.
+2. Ikbeom Lee, Gitae Lee, Seungmok Youn, **Kunwoo Park**, Duhwan Hwang, Xianji Piao, Namkyoo Park & Sunkyu Yu. Designing asymmetric scattering using gain and loss media.\
+   Optics and Photonics Congress 2026, TP-V.23, Jeju, Republic of Korea, 21 July 2026.
+3. Duhwan Hwang, Jongheon Yeo, **Kunwoo Park**, Namkyoo Park & Sunkyu Yu. Numerical Analysis of Single-Photon Dynamics in Nonreciprocal Waveguide-Resonator Coupled Systems.\
+   Photonics Conference 2025, T2A-II.05, Pyeongchang, Republic of Korea, 27 November 2025.

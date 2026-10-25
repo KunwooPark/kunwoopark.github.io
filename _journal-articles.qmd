@@ -1,0 +1,6 @@
+1. Gitae Lee^†^, Seungmok Youn^†^, Ikbeom Lee^†^, **Kunwoo Park**, Duhwan Hwang, Seungkyun Park, Xianji Piao\*, Namkyoo Park\* & Sunkyu Yu\*. Non-Hermitian stealthy hyperuniformity.\
+   [Advanced Science 13, e77054 (2026)](https://doi.org/10.1002/advs.77054)
+2. Seungmok Youn, **Kunwoo Park**, Ikbeom Lee, Gitae Lee, Namkyoo Park\* & Sunkyu Yu\*. Phase-sensitive engineering of optical disordered materials using heterogeneous networks.\
+   [Advanced Optical Materials 14, e03499 (2026)](https://doi.org/10.1002/adom.202503499)
+3. Kyuho Kim^†^, **Kunwoo Park**^†^, Hyungchul Park, Sunkyu Yu, Namkyoo Park\* & Xianji Piao\*. Programmable photonic unitary circuits for light computing.\
+   [Nanophotonics 14, 1429 (2025)](https://doi.org/10.1515/nanoph-2024-0602)

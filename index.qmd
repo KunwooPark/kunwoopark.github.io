@@ -27,7 +27,7 @@ Supervisor: [Sunkyu Yu](https://waves.snu.ac.kr)
 ::::
 
 ::: {.home-intro}
-I conduct theoretical and experimental research in photonics and related fields, aiming to realize ***AI computing with light***.
+I conduct theoretical and experimental research in integrated, disordered, and topological photonics, aiming to realize **AI computing with light**.
 :::
 
 ::: {.about-links}

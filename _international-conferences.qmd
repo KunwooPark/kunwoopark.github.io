@@ -1,0 +1,8 @@
+1. Ikbeom Lee, **Kunwoo Park**, Seungmok Youn & Sunkyu Yu\*. Inverse design of microstructures of non-Hermitian scattering systems.\
+   [SPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025](https://doi.org/10.1117/12.3062322)
+2. **Kunwoo Park**, Ikbeom Lee, Seungmok Youn & Sunkyu Yu\*. Modularization of light scattering for photonic computing applications.\
+   [SPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025](https://doi.org/10.1117/12.3062195)
+3. Ikbeom Lee, **Kunwoo Park** & Sunkyu Yu\*. Design of wave scattering from gain and loss disordered materials.\
+   [CLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024](https://doi.org/10.1109/CLEO-PR60912.2024.10676414)
+4. **Kunwoo Park**, Ikbeom Lee & Sunkyu Yu\*. Inverse design method of hyperuniform materials using system factorization.\
+   [CLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024](https://doi.org/10.1109/CLEO-PR60912.2024.10676648)
