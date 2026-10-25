@@ -70,7 +70,7 @@ Integrated photonics; Disordered photonics; Topological photonics.
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
 \textbf{Integrated M.S./Ph.D.}, Department of Electrical and Computer Engineering & 2024.09 -- present \\
-Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Yu} \quad (Expected: 2029.08) & \\[4pt]
+Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Yu} & \textit{Expected: 2029.08} \\[4pt]
 \textbf{B.S.}, Department of Electrical and Computer Engineering & 2018.03 -- 2024.08 \\
 Seoul National University & \\[4pt]
 \textbf{Military Service}, Republic of Korea Army & 2020.12 -- 2022.06 \\
