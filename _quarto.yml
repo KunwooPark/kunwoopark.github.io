@@ -1,12 +1,15 @@
 project:
   type: website
   output-dir: docs
+  post-render:
+    - scripts/sync-cv.py
   render:
     - index.qmd
     - research.qmd
     - publications.qmd
     - cv.qmd
     - cv-pdf.qmd
+    - 404.qmd
   resources:
     - files/
     - images/
@@ -14,6 +17,11 @@ project:
 
 website:
   title: "Kunwoo Park"
+  site-url: https://kunwoopark.github.io/
+  description: "Kunwoo Park is a Ph.D. student at Seoul National University researching integrated, disordered, and topological photonics for AI computing with light."
+  open-graph: true
+  image: images/profile.jpg
+  image-alt: "Portrait of Kunwoo Park"
   favicon: park.png
   navbar:
     left:

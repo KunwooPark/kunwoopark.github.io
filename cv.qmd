@@ -1,8 +1,33 @@
 ---
 title: "CV"
+description: "Curriculum vitae of Kunwoo Park: education, research funding, teaching experience, and a downloadable PDF."
 format:
   html:
     toc: false
 ---
 
 [Download CV (PDF)](cv-pdf.pdf){.cv-button}
+
+## Education
+
+**Integrated M.S./Ph.D. in Electrical and Computer Engineering**\
+Seoul National University · September 2024–present\
+Advisor: [Sunkyu Yu](https://waves.snu.ac.kr) · Expected completion: August 2029
+
+**B.S. in Electrical and Computer Engineering**\
+Seoul National University · March 2018–August 2024
+
+## Grants and Fellowships
+
+**Graduate Research Encouragement Grant**\
+석사과정생연구장려금지원사업\
+Principal Investigator · **2025.09–2026.08 (completed)**
+
+## Teaching
+
+Teaching Assistant, Seoul National University.
+
+- **Introduction to Electromagnetism with Practice** (Undergraduate)\
+  기초전자기학 및 연습 · **Fall 2026 (ongoing)**
+- **Application of Quantum Mechanics** (Graduate) · Spring 2025
+- **Topics in Electro-physics** (Graduate) · Spring 2025

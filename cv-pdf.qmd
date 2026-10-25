@@ -27,6 +27,7 @@ format:
           {\newfontfamily\koreanfont{Malgun Gothic}}
           {\newfontfamily\koreanfont{Noto Sans CJK KR}}
         \definecolor{snublue}{HTML}{1F3A5F}
+        \AtBeginDocument{\hypersetup{pdftitle={Kunwoo Park - Curriculum Vitae},pdfauthor={Kunwoo Park}}}
         \pagestyle{empty}
         \setstretch{1.08}
         \setlength{\parindent}{0pt}
@@ -61,11 +62,11 @@ Seoul National University\\[5pt]
 \href{https://scholar.google.com/citations?user=KrNjLQgAAAAJ}{Google Scholar}
 \end{center}
 
-## Research Interests
+# Research Interests
 
 Integrated photonics; Disordered photonics; Topological photonics.
 
-## Education
+# Education
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
 \textbf{Integrated M.S./Ph.D.}, Department of Electrical and Computer Engineering & 2024.09 -- present \\
@@ -75,33 +76,33 @@ Seoul National University & \\[4pt]
 \textbf{Military Service}, Republic of Korea Army & 2020.12 -- 2022.06 \\
 \end{tabularx}
 
-## Research Experience
+# Research Experience
 
 - **Integrated Photonics.** Design and experimental demonstration of photonic circuits, with theoretical work toward all-optical neural networks.
 - **Disordered Photonics.** Development of hypergraph models of wave scattering for scalable design of disordered photonic materials.
 - **Topological Photonics.** Investigation of non-Abelian topology for robust and programmable control of light.
 
-## Publications
+# Publications
 
-### Preprints
+## Preprints
 
 {{< include _preprints.qmd >}}
 
-### Journal Articles
+## Journal Articles
 
 {{< include _journal-articles.qmd >}}
 
 \newpage
 
-### International Conferences
+## International Conferences
 
 {{< include _international-conferences.qmd >}}
 
-### Domestic Conferences
+## Domestic Conferences
 
 {{< include _domestic-conferences.qmd >}}
 
-### Patents
+## Patents
 
 1. Nonlinear unitary optical device.\
    Sunkyu Yu, Namkyoo Park, Xianji Piao & **Kunwoo Park**\
@@ -110,23 +111,25 @@ Seoul National University & \\[4pt]
    US application: 19/048,370; Filing date: 2025.02.07\
    EU application: 25156862.2; Filing date: 2025.02.10
 
-## Grants and Fellowships
+# Grants and Fellowships
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
-Graduate Research Encouragement Grant ({\koreanfont 석사과정생연구장려금지원사업}) & 2025 -- present \\
+Graduate Research Encouragement Grant ({\koreanfont 석사과정생연구장려금지원사업}) & 2025.09 -- 2026.08 \\
 \textit{Principal Investigator} & \\
 \end{tabularx}
 
-## Teaching
+# Teaching
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
+\textbf{Introduction to Electromagnetism with Practice} (Undergraduate), Teaching Assistant & Fall 2026 (ongoing) \\
+Seoul National University & \\[4pt]
 \textbf{Application of Quantum Mechanics} (Graduate), Teaching Assistant & Spring 2025 \\
 Seoul National University & \\[4pt]
 \textbf{Topics in Electro-physics} (Graduate), Teaching Assistant & Spring 2025 \\
 Seoul National University & \\
 \end{tabularx}
 
-## References
+# References
 
 Available upon request.
 

@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Journal articles, preprints, conference contributions, and patents by Kunwoo Park."
 format:
   html:
     body-classes: publications-page

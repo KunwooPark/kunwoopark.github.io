@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Research on integrated photonic circuits, hypergraph models of disordered materials, and topological control of light."
 ---
 
 ## Integrated Photonics
@@ -11,7 +12,7 @@ I design and experimentally demonstrate photonic circuits, while developing theo
 
 ## Disordered Photonics
 
-![](images/Disordered%20Photonics.jpg){.research-image fig-alt="Disordered photonics research image"}
+![](images/Disordered%20Photonics.jpg){.research-image fig-alt="Disordered photonics research image" loading="lazy" decoding="async"}
 
 Engineered disorder offers new ways to control light in complex photonic media. My research focuses on scalable models and design methods for these systems, including hypergraph models of wave scattering.
 
@@ -21,7 +22,7 @@ Related publications: [Hypergraph modelling](https://arxiv.org/abs/2507.15329) Â
 
 ## Topological Photonics
 
-![](images/Topological%20Photonics.jpg){.research-image fig-alt="Topological photonics research image"}
+![](images/Topological%20Photonics.jpg){.research-image fig-alt="Topological photonics research image" loading="lazy" decoding="async"}
 
 Topological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.  
 I develop photonic devices that exploit non-Abelian topology to realize robust and programmable control of light.

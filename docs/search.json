@@ -1,52 +1,31 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Jungyoon Kim†, Kyuho Kim†, Kunwoo Park, Namkyoo Park* & Sunkyu Yu*. Task-specific programming of chaos in neural circuits.\narXiv:2605.19465\nKunwoo Park, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Hypergraph modelling of wave scattering to speed-up material design.\narXiv:2507.15329"
+    "text": "Download CV (PDF)"
   },
   {
-    "objectID": "publications.html#preprints",
-    "href": "publications.html#preprints",
-    "title": "Publications",
-    "section": "",
-    "text": "Jungyoon Kim†, Kyuho Kim†, Kunwoo Park, Namkyoo Park* & Sunkyu Yu*. Task-specific programming of chaos in neural circuits.\narXiv:2605.19465\nKunwoo Park, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Hypergraph modelling of wave scattering to speed-up material design.\narXiv:2507.15329"
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nIntegrated M.S./Ph.D. in Electrical and Computer Engineering\nSeoul National University · September 2024–present\nAdvisor: Sunkyu Yu · Expected completion: August 2029\nB.S. in Electrical and Computer Engineering\nSeoul National University · March 2018–August 2024"
   },
   {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "Journal Articles",
-    "text": "Journal Articles\n\nGitae Lee†, Seungmok Youn†, Ikbeom Lee†, Kunwoo Park, Duhwan Hwang, Seungkyun Park, Xianji Piao*, Namkyoo Park* & Sunkyu Yu*. Non-Hermitian stealthy hyperuniformity.\nAdvanced Science 13, e77054 (2026)\nSeungmok Youn, Kunwoo Park, Ikbeom Lee, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Phase-sensitive engineering of optical disordered materials using heterogeneous networks.\nAdvanced Optical Materials 14, e03499 (2026)\nKyuho Kim†, Kunwoo Park†, Hyungchul Park, Sunkyu Yu, Namkyoo Park* & Xianji Piao*. Programmable photonic unitary circuits for light computing.\nNanophotonics 14, 1429 (2025)"
+    "objectID": "cv.html#grants-and-fellowships",
+    "href": "cv.html#grants-and-fellowships",
+    "title": "CV",
+    "section": "Grants and Fellowships",
+    "text": "Grants and Fellowships\nGraduate Research Encouragement Grant\n석사과정생연구장려금지원사업\nPrincipal Investigator · 2025.09–2026.08 (completed)"
   },
   {
-    "objectID": "publications.html#conferences",
-    "href": "publications.html#conferences",
-    "title": "Publications",
-    "section": "International Conferences",
-    "text": "International Conferences\n\nIkbeom Lee, Kunwoo Park, Seungmok Youn & Sunkyu Yu*. Inverse design of microstructures of non-Hermitian scattering systems.\nSPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025\nKunwoo Park, Ikbeom Lee, Seungmok Youn & Sunkyu Yu*. Modularization of light scattering for photonic computing applications.\nSPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025\nIkbeom Lee, Kunwoo Park & Sunkyu Yu*. Design of wave scattering from gain and loss disordered materials.\nCLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024\nKunwoo Park, Ikbeom Lee & Sunkyu Yu*. Inverse design method of hyperuniform materials using system factorization.\nCLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024"
-  },
-  {
-    "objectID": "publications.html#patents",
-    "href": "publications.html#patents",
-    "title": "Publications",
-    "section": "Patents",
-    "text": "Patents\n\nNonlinear unitary optical device.\n비선형 유니터리 광학 소자.\nSunkyu Yu, Namkyoo Park, Xianji Piao & Kunwoo Park\nKR 10-2859166 (Application No. 10-2025-0005056; Provisional No. 10-2024-0179951)\nRegistration date: 2025.09.09; Filing date: 2025.01.13; Provisional filing date: 2024.12.05\nUS application: 19/048,370; Filing date: 2025.02.07\nEU application: 25156862.2; Filing date: 2025.02.10\n\n† Co-first authors.\n* Corresponding authors."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Kunwoo Park\n\n\n\n\n\n\nPhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
-  },
-  {
-    "objectID": "index.html#kunwoo-park",
-    "href": "index.html#kunwoo-park",
-    "title": "Home",
-    "section": "",
-    "text": "PhD Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu"
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\nTeaching Assistant, Seoul National University.\n\nIntroduction to Electromagnetism with Practice (Undergraduate)\n기초전자기학 및 연습 · Fall 2026 (ongoing)\nApplication of Quantum Mechanics (Graduate) · Spring 2025\nTopics in Electro-physics (Graduate) · Spring 2025"
   },
   {
     "objectID": "research.html",
@@ -77,15 +56,36 @@
     "text": "Topological Photonics\n\nTopological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.\nI develop photonic devices that exploit non-Abelian topology to realize robust and programmable control of light."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Download CV (PDF)"
+    "text": "Kunwoo Park\n\n\n\n\nKunwoo Park\n\nPh.D. Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu\n\n\n\n\n\nI conduct theoretical and experimental research in integrated, disordered, and topological photonics, aiming to realize AI computing with light.\n\n\n Email  GitHub  LinkedIn  Google Scholar"
   },
   {
-    "objectID": "publications.html#international-conferences",
-    "href": "publications.html#international-conferences",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Jungyoon Kim†, Kyuho Kim†, Kunwoo Park, Namkyoo Park* & Sunkyu Yu*. Task-specific programming of chaos in neural circuits.\narXiv:2605.19465\nKunwoo Park, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Hypergraph modelling of wave scattering to speed-up material design.\narXiv:2507.15329"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Jungyoon Kim†, Kyuho Kim†, Kunwoo Park, Namkyoo Park* & Sunkyu Yu*. Task-specific programming of chaos in neural circuits.\narXiv:2605.19465\nKunwoo Park, Ikbeom Lee, Seungmok Youn, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Hypergraph modelling of wave scattering to speed-up material design.\narXiv:2507.15329"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nGitae Lee†, Seungmok Youn†, Ikbeom Lee†, Kunwoo Park, Duhwan Hwang, Seungkyun Park, Xianji Piao*, Namkyoo Park* & Sunkyu Yu*. Non-Hermitian stealthy hyperuniformity.\nAdvanced Science 13, e77054 (2026)\nSeungmok Youn, Kunwoo Park, Ikbeom Lee, Gitae Lee, Namkyoo Park* & Sunkyu Yu*. Phase-sensitive engineering of optical disordered materials using heterogeneous networks.\nAdvanced Optical Materials 14, e03499 (2026)\nKyuho Kim†, Kunwoo Park†, Hyungchul Park, Sunkyu Yu, Namkyoo Park* & Xianji Piao*. Programmable photonic unitary circuits for light computing.\nNanophotonics 14, 1429 (2025)"
+  },
+  {
+    "objectID": "publications.html#conferences",
+    "href": "publications.html#conferences",
     "title": "Publications",
     "section": "International Conferences",
     "text": "International Conferences\n\nIkbeom Lee, Kunwoo Park, Seungmok Youn & Sunkyu Yu*. Inverse design of microstructures of non-Hermitian scattering systems.\nSPIE Optics + Photonics 2025, 13578-59, San Diego, California, USA, 6 August 2025\nKunwoo Park, Ikbeom Lee, Seungmok Youn & Sunkyu Yu*. Modularization of light scattering for photonic computing applications.\nSPIE Optics + Photonics 2025, 13581-25, San Diego, California, USA, 5 August 2025\nIkbeom Lee, Kunwoo Park & Sunkyu Yu*. Design of wave scattering from gain and loss disordered materials.\nCLEO-PacificRim (CLEO-PR) 2024, Mo2J-4, Incheon, Republic of Korea, 5 August 2024\nKunwoo Park, Ikbeom Lee & Sunkyu Yu*. Inverse design method of hyperuniform materials using system factorization.\nCLEO-PacificRim (CLEO-PR) 2024, Mo2J-2, Incheon, Republic of Korea, 5 August 2024"
@@ -96,5 +96,12 @@
     "title": "Publications",
     "section": "Domestic Conferences",
     "text": "Domestic Conferences\n\nKunwoo Park, Gitae Lee, Ikbeom Lee, Seungmok Youn, Namkyoo Park & Sunkyu Yu. Large-Scale Optical Material Design via Hypergraph Models.\nOptics and Photonics Congress 2026, W3C-V.01, Jeju, Republic of Korea, 22 July 2026.\nIkbeom Lee, Gitae Lee, Seungmok Youn, Kunwoo Park, Duhwan Hwang, Xianji Piao, Namkyoo Park & Sunkyu Yu. Designing asymmetric scattering using gain and loss media.\nOptics and Photonics Congress 2026, TP-V.23, Jeju, Republic of Korea, 21 July 2026.\nDuhwan Hwang, Jongheon Yeo, Kunwoo Park, Namkyoo Park & Sunkyu Yu. Numerical Analysis of Single-Photon Dynamics in Nonreciprocal Waveguide-Resonator Coupled Systems.\nPhotonics Conference 2025, T2A-II.05, Pyeongchang, Republic of Korea, 27 November 2025."
+  },
+  {
+    "objectID": "publications.html#patents",
+    "href": "publications.html#patents",
+    "title": "Publications",
+    "section": "Patents",
+    "text": "Patents\n\nNonlinear unitary optical device.\n비선형 유니터리 광학 소자.\nSunkyu Yu, Namkyoo Park, Xianji Piao & Kunwoo Park\nKR 10-2859166 (Application No. 10-2025-0005056; Provisional No. 10-2024-0179951)\nRegistration date: 2025.09.09; Filing date: 2025.01.13; Provisional filing date: 2024.12.05\nUS application: 19/048,370; Filing date: 2025.02.07\nEU application: 25156862.2; Filing date: 2025.02.10\n\n† Co-first authors.\n* Corresponding authors."
   }
 ]

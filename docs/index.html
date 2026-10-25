@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Kunwoo Park, Ph.D.&nbsp;student at Seoul National University. Research in integrated, disordered, and topological photonics for AI computing with light.">
 
 <title>Home – Kunwoo Park</title>
 <style>
@@ -74,6 +75,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Home – Kunwoo Park">
+<meta property="og:description" content="Kunwoo Park, Ph.D.&nbsp;student at Seoul National University. Research in integrated, disordered, and topological photonics for AI computing with light.">
+<meta property="og:image" content="https://kunwoopark.github.io/images/profile.jpg">
+<meta property="og:site_name" content="Kunwoo Park">
+<meta property="og:image:alt" content="Portrait of Kunwoo Park">
 </head>
 
 <body class="nav-fixed home-page fullcontent quarto-light">
@@ -129,6 +135,11 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Home</h1>
 </div>
 
+<div>
+  <div class="description">
+    Kunwoo Park, Ph.D.&nbsp;student at Seoul National University. Research in integrated, disordered, and topological photonics for AI computing with light.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -147,15 +158,15 @@ ul.task-list li input[type="checkbox"] {
 <div class="column" style="width:36%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/profile.jpg" class="home-profile-image img-fluid figure-img"></p>
+<p><img src="images/profile.jpg" class="home-profile-image img-fluid figure-img" alt="Portrait of Kunwoo Park"></p>
 <figcaption>Kunwoo Park</figcaption>
 </figure>
 </div>
 </div><div class="column" style="width:64%;">
-<section id="kunwoo-park" class="level2">
-<h2 class="anchored" data-anchor-id="kunwoo-park">Kunwoo Park</h2>
+<section id="kunwoo-park" class="level1">
+<h1>Kunwoo Park</h1>
 <div class="home-meta">
-<p>PhD Student</p>
+<p>Ph.D.&nbsp;Student</p>
 <p>Department of Electrical and Computer Engineering</p>
 <p>Seoul National University</p>
 <p>Supervisor: <a href="https://waves.snu.ac.kr">Sunkyu Yu</a></p>
@@ -167,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I conduct theoretical and experimental research in integrated, disordered, and topological photonics, aiming to realize <strong>AI computing with light</strong>.</p>
 </div>
 <div class="about-links">
-<p><a href="mailto:imotdnif43@snu.ac.kr" class="about-link"><i class="bi bi-envelope"></i> <span class="about-link-text">Email</span></a> <a href="https://github.com/KunwooPark" class="about-link"><i class="bi bi-github"></i> <span class="about-link-text">GitHub</span></a> <a href="https://www.linkedin.com/in/kunwoo-park-38ba13329/" class="about-link"><i class="bi bi-linkedin"></i> <span class="about-link-text">LinkedIn</span></a> <a href="https://scholar.google.com/citations?user=KrNjLQgAAAAJ" class="about-link"><i class="bi bi-mortarboard"></i> <span class="about-link-text">Google Scholar</span></a></p>
+<p><a href="mailto:imotdnif43@snu.ac.kr" class="about-link"><i class="bi bi-envelope" aria-hidden="true"></i> <span class="about-link-text">Email</span></a> <a href="https://github.com/KunwooPark" class="about-link"><i class="bi bi-github" aria-hidden="true"></i> <span class="about-link-text">GitHub</span></a> <a href="https://www.linkedin.com/in/kunwoo-park-38ba13329/" class="about-link"><i class="bi bi-linkedin" aria-hidden="true"></i> <span class="about-link-text">LinkedIn</span></a> <a href="https://scholar.google.com/citations?user=KrNjLQgAAAAJ" class="about-link"><i class="bi bi-mortarboard" aria-hidden="true"></i> <span class="about-link-text">Google Scholar</span></a></p>
 </div>
 
 
@@ -246,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/kunwoopark\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

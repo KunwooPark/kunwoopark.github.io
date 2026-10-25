@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Journal articles, preprints, conference contributions, and patents by Kunwoo Park.">
 
 <title>Publications – Kunwoo Park</title>
 <style>
@@ -74,6 +75,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Publications – Kunwoo Park">
+<meta property="og:description" content="Journal articles, preprints, conference contributions, and patents by Kunwoo Park.">
+<meta property="og:image" content="https://kunwoopark.github.io/images/profile.jpg">
+<meta property="og:site_name" content="Kunwoo Park">
+<meta property="og:image:alt" content="Portrait of Kunwoo Park">
 </head>
 
 <body class="nav-fixed publications-page fullcontent quarto-light">
@@ -129,6 +135,11 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Publications</h1>
 </div>
 
+<div>
+  <div class="description">
+    Journal articles, preprints, conference contributions, and patents by Kunwoo Park.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -278,7 +289,7 @@ EU application: 25156862.2; Filing date: 2025.02.10</li>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/kunwoopark\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -54,6 +54,7 @@ a:focus {
 .about-link {
   display: inline-flex;
   align-items: center;
+  min-height: 44px;
   gap: 0.35rem;
   border: 1px solid var(--site-border);
   border-radius: 999px;
@@ -68,6 +69,20 @@ a:focus {
 .about-link:focus {
   background-color: var(--site-surface);
   text-decoration: none;
+}
+
+.about-links > p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--site-accent);
+  outline-offset: 3px;
 }
 
 .quarto-about-trestles .about-image,
@@ -160,7 +175,7 @@ body.home-page .home-hero {
   margin-top: 1.5rem;
 }
 
-body.home-page .home-hero h2 {
+body.home-page .home-hero h1 {
   font-size: 2.35rem;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -245,14 +260,14 @@ body.publications-page li {
     text-align: center;
   }
 
-  body.home-page .home-hero h2 {
+  body.home-page .home-hero h1 {
     font-size: clamp(2rem, 8vw, 2.35rem);
     display: block;
     margin-top: 0.35rem;
     width: 100%;
   }
 
-  body.home-page .home-hero h2 .anchorjs-link {
+  body.home-page .home-hero h1 .anchorjs-link {
     display: none;
   }
 
@@ -277,6 +292,10 @@ body.publications-page li {
     margin-top: 1.5rem;
   }
 
+  body.home-page .about-links > p {
+    gap: 0.45rem;
+  }
+
   body.home-page .about-link {
     padding: 0.34rem 0.72rem;
   }
@@ -285,7 +304,7 @@ body.publications-page li {
     max-width: none;
   }
 
-  body.home-page .home-hero h2,
+  body.home-page .home-hero h1,
   body.home-page .home-meta,
   body.home-page .home-meta p {
     text-align: center;
