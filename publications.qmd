@@ -29,8 +29,8 @@ format:
    Sunkyu Yu, Namkyoo Park, Xianji Piao & **Kunwoo Park**\
    KR 10-2859166 (Application No. 10-2025-0005056; Provisional No. 10-2024-0179951)\
    Registration date: 2025.09.09; Filing date: 2025.01.13; Provisional filing date: 2024.12.05\
-   US application: 19/048,370; Filing date: 2025.02.07\
-   EU application: 25156862.2; Filing date: 2025.02.10
+   US 2026/0161044 A1 (Application No. 19/048,370; Filing date: 2025.02.07)\
+   EP 4756525 A1 (Application No. 25156862.2; Filing date: 2025.02.10)
 
 ^†^ Co-first authors.\
 \* Corresponding authors.

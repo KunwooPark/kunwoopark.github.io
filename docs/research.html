@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Research – Kunwoo Park">
@@ -157,21 +186,23 @@ ul.task-list li input[type="checkbox"] {
 <section id="integrated-photonics" class="level2">
 <h2 class="anchored" data-anchor-id="integrated-photonics">Integrated Photonics</h2>
 <p><img src="images/Integrated Photonics.jpg" class="research-image img-fluid" alt="Integrated photonics research image"></p>
-<p>Photonic integrated circuits provide a scalable hardware platform for AI computing with light (<a href="https://doi.org/10.1515/nanoph-2024-0602">Nanophotonics 14, 1429 (2025)</a>).<br>
-I design and experimentally demonstrate photonic circuits, while developing theoretical frameworks for implementing all-optical neural networks.</p>
+<p>Programmable photonic unitary circuits provide a scalable hardware platform for AI computing with light (<a href="https://doi.org/10.1515/nanoph-2024-0602">review: Nanophotonics 14, 1429 (2025)</a>).<br>
+Toward all-optical neural networks, I co-invented a nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides to provide power-preserving optical nonlinearity (KR patent; US/EP applications published).<br>
+My device work is on the silicon nitride (SiN) platform, covering simulation (Tidy3D, COMSOL), layout (gdsfactory, PhotonForge, KLayout), tape-out through in-house fabrication and a foundry multi-project-wafer run using the Ligentec PDK, and optical characterization of the fabricated circuits.</p>
 </section>
 <section id="disordered-photonics" class="level2">
 <h2 class="anchored" data-anchor-id="disordered-photonics">Disordered Photonics</h2>
 <p><img src="images/Disordered Photonics.jpg" class="research-image img-fluid" loading="lazy" decoding="async" alt="Disordered photonics research image"></p>
-<p>Engineered disorder offers new ways to control light in complex photonic media. My research focuses on scalable models and design methods for these systems, including hypergraph models of wave scattering.</p>
+<p>Engineered disorder offers new ways to control light in complex photonic media. My research focuses on scalable models and design methods for these systems, including hypergraph compression of wave scattering that designs large-scale disordered photonic systems with <span class="math inline">\(O(N^{1/L})\)</span> time complexity, breaking the conventional <span class="math inline">\(O(N)\)</span> limit (<a href="https://github.com/KunwooPark/Scattering-Hypergraph">code</a>).</p>
 <p>Our recent work extends hyperuniformity and stealthiness to non-Hermitian materials, revealing how correlations between gain and loss enable directional control of scattering.</p>
-<p>Related publications: <a href="https://arxiv.org/abs/2507.15329">Hypergraph modelling</a> · <a href="https://doi.org/10.1002/advs.77054">Non-Hermitian stealthy hyperuniformity</a></p>
+<p>Related publications: <a href="https://arxiv.org/abs/2507.15329">Hypergraph compression</a> · <a href="https://doi.org/10.1002/advs.77054">Non-Hermitian stealthy hyperuniformity</a></p>
 </section>
 <section id="topological-photonics" class="level2">
 <h2 class="anchored" data-anchor-id="topological-photonics">Topological Photonics</h2>
 <p><img src="images/Topological Photonics.jpg" class="research-image img-fluid" loading="lazy" decoding="async" alt="Topological photonics research image"></p>
 <p>Topological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.<br>
-I develop photonic devices that exploit non-Abelian topology to realize robust and programmable control of light.</p>
+I develop SiN photonic devices that exploit non-Abelian topology to realize robust and programmable control of light.<br>
+I designed devices for non-Abelian braiding of light using coupled-mode theory with Tidy3D verification and experimentally characterized the fabricated devices, and designed topological unitary circuits that are now in fabrication through a Ligentec foundry run.</p>
 
 
 </section>
