@@ -1,6 +1,6 @@
 ---
 title: "Home"
-description: "Kunwoo Park, Ph.D. student at Seoul National University. Research in integrated, disordered, and topological photonics for AI computing with light."
+description: "Kunwoo Park, Ph.D. student at Seoul National University. Research in integrated photonics, optical inverse design, and topological photonics for AI computing with light."
 format:
   html:
     title-block: false
@@ -28,7 +28,7 @@ Supervisor: [Sunkyu Yu](https://waves.snu.ac.kr)
 ::::
 
 ::: {.home-intro}
-I conduct theoretical and experimental research in integrated, disordered, and topological photonics, aiming to realize **AI computing with light**.
+I design and test [silicon nitride photonic chips]{.nowrap} for [**AI computing with light**]{.nowrap}, using [wave physics]{.nowrap} to make them [scalable and robust]{.nowrap}.
 :::
 
 ::: {.about-links}

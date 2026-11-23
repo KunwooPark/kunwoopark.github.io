@@ -18,7 +18,7 @@ project:
 website:
   title: "Kunwoo Park"
   site-url: https://kunwoopark.github.io/
-  description: "Kunwoo Park is a Ph.D. student at Seoul National University researching integrated, disordered, and topological photonics for AI computing with light."
+  description: "Kunwoo Park is a Ph.D. student at Seoul National University researching integrated photonics, optical inverse design, and topological photonics for AI computing with light."
   open-graph: true
   image: images/profile.jpg
   image-alt: "Portrait of Kunwoo Park"

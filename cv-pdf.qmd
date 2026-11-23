@@ -5,10 +5,10 @@ format:
     pdf-engine: lualatex
     fontsize: 10pt
     geometry:
-      - top=0.6in
-      - bottom=0.62in
-      - left=0.75in
-      - right=0.75in
+      - top=0.75in
+      - bottom=0.75in
+      - left=0.85in
+      - right=0.85in
     colorlinks: true
     urlcolor: snublue
     linkcolor: snublue
@@ -29,30 +29,29 @@ format:
         \definecolor{snublue}{HTML}{1F3A5F}
         \AtBeginDocument{\hypersetup{pdftitle={Kunwoo Park - Curriculum Vitae},pdfauthor={Kunwoo Park}}}
         \pagestyle{empty}
-        \setstretch{1.04}
+        \setstretch{1.1}
         \setlength{\parindent}{0pt}
         \setlength{\parskip}{4pt}
-        \setlist[itemize]{leftmargin=1.2em, itemsep=2.5pt, topsep=3pt, parsep=0pt}
-        \setlist[enumerate]{leftmargin=1.45em, itemsep=3pt, topsep=3pt, parsep=0pt}
+        \setlist[itemize]{leftmargin=1.2em, itemsep=4pt, topsep=4pt, parsep=0pt}
+        \setlist[enumerate]{leftmargin=1.45em, itemsep=3.5pt, topsep=3pt, parsep=0pt}
         \titleformat{\section}
           {\large\bfseries\color{snublue}}
           {}
           {0pt}
           {}
           [\titlerule]
-        \titlespacing*{\section}{0pt}{1.05em}{0.45em}
+        \titlespacing*{\section}{0pt}{1.5em}{0.65em}
         \titleformat{\subsection}
           {\normalsize\bfseries}
           {}
           {0pt}
           {}
-        \titlespacing*{\subsection}{0pt}{0.7em}{0.2em}
+        \titlespacing*{\subsection}{0pt}{0.95em}{0.25em}
 ---
 
 \begin{center}
-{\LARGE \textbf{Kunwoo Park}}\\[2pt]
-Ph.D. Student, Department of Electrical and Computer Engineering\\
-Seoul National University\\[5pt]
+{\LARGE \textbf{Kunwoo Park}}\\[3pt]
+Ph.D. Student, Department of Electrical and Computer Engineering, Seoul National University\\[5pt]
 \href{mailto:imotdnif43@snu.ac.kr}{imotdnif43@snu.ac.kr}
 \enspace|\enspace
 \href{https://kunwoopark.github.io/}{kunwoopark.github.io}
@@ -66,45 +65,56 @@ Seoul National University\\[5pt]
 
 # Summary
 
-Ph.D. student in photonics with hands-on silicon nitride (SiN) integrated photonics experience across the design flow: script-based layout in Python (gdsfactory, PhotonForge, KLayout), FDTD simulation (Tidy3D), foundry-PDK tape-out (Ligentec MPW), and optical characterization of fabricated passive circuits. Background in scattering-matrix and network modeling of large photonic systems and in programmable photonic circuits (MZI meshes, ring resonators) for optical computing. Uses AI-assisted, agentic coding workflows in daily development.
+Ph.D. student in photonics with hands-on silicon nitride (SiN) integrated photonics experience, from device design and FDTD simulation to Python-scripted layout, foundry-PDK tape-out, and optical measurement. Research spans programmable photonic circuits for optical computing, optical inverse design, and topological photonics.
 
 # Education
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
 \textbf{Ph.D. Program (Integrated M.S./Ph.D.)}, Electrical and Computer Engineering & 2024.09 -- present \\
-Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Yu} & \textit{Expected: 2029.08} \\[4pt]
+Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Yu} & \textit{Expected: 2029.08} \\[6pt]
 \textbf{B.S.}, Electrical and Computer Engineering & 2018.03 -- 2024.08 \\
-Seoul National University \quad (incl. military service, Republic of Korea Army, 2020.12 -- 2022.06) & \\
+Seoul National University & \\[6pt]
+\textbf{Military Service}, Republic of Korea Army & 2020.12 -- 2022.06 \\
 \end{tabularx}
 
 # Research Experience
 
-## SiN photonic integrated circuits: design, layout, and tape-out
+## SiN photonic integrated circuits
 
-- Scripted the tape-out layout of topological unitary circuits in PhotonForge with the Ligentec SiN PDK (plus gdsfactory, KLayout) for a multi-project-wafer (MPW) run; chips are in fabrication.
-- Designed SiN devices for non-Abelian braiding of light with coupled-mode theory (CMT), verified them in Tidy3D FDTD, and optically characterized the in-house-fabricated passive circuits.
-- Goal: programmable control of light that is robust to fabrication imperfections, using non-Abelian topology.
+- Scripted the tape-out layout of topological unitary circuits in PhotonForge with the Ligentec SiN PDK for a foundry MPW run (chips in fabrication).
+- Designed non-Abelian braiding devices with coupled-mode theory, verified them in Tidy3D FDTD, and characterized the fabricated passive circuits (manuscript in preparation).
 
 ## Programmable photonic circuits for optical computing
 
-- Co-invented a 2×2 nonlinear unitary optical device for optical neural networks: an MZI couples two channels, each a waveguide with a side-coupled resonator tuned thermo- or electro-optically, giving power-preserving Kerr nonlinearity (KR patent registered; US and EP applications published).
-- Co-first author of a review of programmable photonic unitary circuits (MZI meshes, Fourier-type and synthetic-frequency architectures) and their fidelity--scalability trade-offs (*Nanophotonics*, 2025).
+- Co-invented a nonlinear unitary optical device (an MZI with resonator-coupled waveguides) for optical neural networks; KR patent registered, US/EP applications published.
+- Co-first author of a review of programmable photonic unitary circuits (*Nanophotonics*, 2025).
 
-## Scalable modeling and design of large-scale disordered photonic media
+## Optical inverse design
 
-- Developed a hypergraph-compression model of wave scattering that designs disordered optical materials with $O(N^{1/L})$ time complexity, beyond the conventional $O(N)$ limit: $10^6$-particle systems from 300 seed particles, and nearly 100$\times$ higher design accuracy in a hybrid with collective-coordinate optimization (first author; method, all numerical analysis, and \href{https://github.com/KunwooPark/Scattering-Hypergraph}{public Python code}).
-- Developed network-based models and inverse-design methods for disordered and non-Hermitian scattering media, with ensemble statistics over random realizations (*Adv. Opt. Mater.* 2026; CLEO-PR 2024; SPIE 2025).
+- Developed hypergraph compression of wave scattering that designs disordered optical materials with $O(N^{1/L})$ time complexity, beyond the conventional $O(N)$ limit (first author; \href{https://github.com/KunwooPark/Scattering-Hypergraph}{Python code}).
+- Developed network-based inverse-design methods for multiphase and non-Hermitian scattering media (*Adv. Opt. Mater.* 2026; CLEO-PR 2024; SPIE 2025).
 
-# Technical Skills
+# Skills
 
-- **Layout and tape-out:** PhotonForge, gdsfactory (Python), KLayout; Ligentec SiN PDK, MPW tape-out
-- **Photonic simulation:** Tidy3D (FDTD; primary tool), COMSOL Multiphysics; coupled-mode theory (CMT)
+- **Layout and tape-out:** PhotonForge, gdsfactory, KLayout; Ligentec SiN PDK, MPW tape-out
+- **Simulation and modeling:** Tidy3D (FDTD), COMSOL; coupled-mode theory, scattering-matrix models
 - **Programming:** Python (layout and simulation automation); agentic coding (Claude Code, Codex)
-- **Devices:** SiN waveguides, MZIs and MZI meshes, microring resonators, thermo-/electro-optic phase shifters
-- **Modeling:** Scattering-matrix and network (graph/hypergraph) models, inverse design, ensemble statistics
-- **Experiment:** Optical characterization of passive integrated photonic circuits
+- **Devices and measurement:** SiN waveguides, MZI meshes, microring resonators; passive-circuit testing
+
+# Grants and Fellowships
+
+\begin{tabularx}{\textwidth}{@{} X r @{}}
+\textbf{Research Encouragement Grant for Master's Students} & 2025.09 -- 2026.08 \\
+Ministry of Education / National Research Foundation of Korea \quad \textit{Principal Investigator} & \\
+\end{tabularx}
+
+\newpage
 
 # Publications
+
+```{=latex}
+\small
+```
 
 ## Journal Articles
 
@@ -126,24 +136,18 @@ Seoul National University \quad (incl. military service, Republic of Korea Army,
 
 1. Nonlinear unitary optical device.\
    Sunkyu Yu, Namkyoo Park, Xianji Piao & **Kunwoo Park**\
-   KR 10-2859166 B1, registered 2025.09.09 (Application No. 10-2025-0005056, filed 2025.01.13)\
-   US 2026/0161044 A1 (Appl. 19/048,370, filed 2025.02.07); EP 4756525 A1 (Appl. 25156862.2, filed 2025.02.10)
+   KR 10-2859166 B1 (registered 2025.09.09); US 2026/0161044 A1; EP 4756525 A1
 
 ```{=latex}
+\vspace{2pt}
 {\footnotesize \textsuperscript{\textdagger}Co-first authors. \quad \textsuperscript{*}Corresponding authors.\par}
+\normalsize
 ```
-
-# Grants and Fellowships
-
-\begin{tabularx}{\textwidth}{@{} X r @{}}
-\textbf{Research Encouragement Grant for Master's Students} & 2025.09 -- 2026.08 \\
-Ministry of Education / National Research Foundation of Korea \quad \textit{Principal Investigator} & \\
-\end{tabularx}
 
 # Teaching
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
-Teaching Assistant, \textbf{Introduction to Electromagnetism with Practice} (Undergraduate) & Fall 2026 (ongoing) \\
-Teaching Assistant, \textbf{Application of Quantum Mechanics} (Graduate) & Spring 2025 \\
+Teaching Assistant, \textbf{Introduction to Electromagnetism with Practice} (Undergraduate) & Fall 2026 (ongoing) \\[2pt]
+Teaching Assistant, \textbf{Application of Quantum Mechanics} (Graduate) & Spring 2025 \\[2pt]
 Teaching Assistant, \textbf{Topics in Electro-physics} (Graduate) & Spring 2025 \\
 \end{tabularx}

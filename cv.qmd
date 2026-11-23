@@ -1,9 +1,16 @@
 ---
 title: "CV"
-description-meta: "Download Kunwoo Park's curriculum vitae."
+description-meta: "Curriculum vitae of Kunwoo Park."
 format:
   html:
     toc: false
+    body-classes: cv-page
 ---
 
 [Download CV (PDF)](cv-pdf.pdf){.cv-button}
+
+```{=html}
+<object class="cv-embed" data="cv-pdf.pdf#navpanes=0&amp;view=FitH" type="application/pdf" aria-label="Curriculum vitae of Kunwoo Park (PDF)">
+  <p class="cv-embed-fallback">This browser cannot show the PDF here. <a href="cv-pdf.pdf">Open the CV (PDF)</a>.</p>
+</object>
+```

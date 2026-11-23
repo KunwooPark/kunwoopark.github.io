@@ -1,30 +1,46 @@
 ---
 title: "Research"
-description: "Research on integrated photonic circuits, hypergraph models of disordered materials, and topological control of light."
+description-meta: "Integrated photonics, optical inverse design, and topological photonics toward AI computing with light."
+format:
+  html:
+    body-classes: research-page
 ---
 
 ## Integrated Photonics
 
-![](images/Integrated%20Photonics.jpg){.research-image fig-alt="Integrated photonics research image"}
+![](images/Integrated%20Photonics.jpg){.research-image fig-alt="A mesh of Mach-Zehnder interferometers implementing a linear unitary transform, followed by nonlinear elements"}
 
-Programmable photonic unitary circuits provide a scalable hardware platform for AI computing with light ([review: Nanophotonics 14, 1429 (2025)](https://doi.org/10.1515/nanoph-2024-0602)).  
-Toward all-optical neural networks, I co-invented a nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides to provide power-preserving optical nonlinearity (KR patent; US/EP applications published).  
-My device work is on the silicon nitride (SiN) platform, covering simulation (Tidy3D, COMSOL), layout (gdsfactory, PhotonForge, KLayout), tape-out through in-house fabrication and a foundry multi-project-wafer run using the Ligentec PDK, and optical characterization of the fabricated circuits.
+Programmable photonic circuits offer a scalable hardware platform for AI computing with light. I design silicon nitride (SiN) photonic integrated circuits, from device modeling and simulation to layout, foundry tape-out, and optical measurement.
 
-## Disordered Photonics
+- A nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides, providing power-preserving nonlinearity for optical neural networks.
+- A review of programmable photonic unitary circuits and their fidelity–scalability trade-offs for light computing.
 
-![](images/Disordered%20Photonics.jpg){.research-image fig-alt="Disordered photonics research image" loading="lazy" decoding="async"}
+::: {.research-links}
+[Review in Nanophotonics (2025)](https://doi.org/10.1515/nanoph-2024-0602) · [Patent](publications.html#patents)
+:::
 
-Engineered disorder offers new ways to control light in complex photonic media. My research focuses on scalable models and design methods for these systems, including hypergraph compression of wave scattering that designs large-scale disordered photonic systems with $O(N^{1/L})$ time complexity, breaking the conventional $O(N)$ limit ([code](https://github.com/KunwooPark/Scattering-Hypergraph)).
+## Optical Inverse Design
 
-Our recent work extends hyperuniformity and stealthiness to non-Hermitian materials, revealing how correlations between gain and loss enable directional control of scattering.
+![](images/Optical%20Inverse%20Design.jpg){.research-image fig-alt="A seed particle set is combined into a large material whose wave scattering is modelled as a hypergraph" loading="lazy" decoding="async"}
 
-Related publications: [Hypergraph compression](https://arxiv.org/abs/2507.15329) · [Non-Hermitian stealthy hyperuniformity](https://doi.org/10.1002/advs.77054)
+Designing large-scale optical materials is limited by the cost of computing how light scatters. I develop inverse-design methods that describe wave scattering with graphs and hypergraphs, enabling fast design of disordered optical materials with targeted scattering.
+
+- Hypergraph compression of wave scattering designs large-scale materials with $O(N^{1/L})$ time complexity, breaking the conventional $O(N)$ limit.
+- Correlated gain and loss extend hyperuniformity and stealthiness to non-Hermitian materials, enabling directional control of scattering.
+
+::: {.research-links}
+[Hypergraph compression](https://arxiv.org/abs/2507.15329) · [Code](https://github.com/KunwooPark/Scattering-Hypergraph) · [Non-Hermitian stealthy hyperuniformity](https://doi.org/10.1002/advs.77054) · [Heterogeneous networks](https://doi.org/10.1002/adom.202503499)
+:::
 
 ## Topological Photonics
 
-![](images/Topological%20Photonics.jpg){.research-image fig-alt="Topological photonics research image" loading="lazy" decoding="async"}
+![](images/Topological%20Photonics.jpg){.research-image fig-alt="Evolution of a light state on the Bloch sphere during non-Abelian braiding" loading="lazy" decoding="async"}
 
-Topological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.  
-I develop SiN photonic devices that exploit non-Abelian topology to realize robust and programmable control of light.  
-I designed devices for non-Abelian braiding of light using coupled-mode theory with Tidy3D verification and experimentally characterized the fabricated devices, and designed topological unitary circuits that are now in fabrication through a Ligentec foundry run.
+Topological photonics protects light against fabrication imperfections and experimental perturbations. I develop SiN photonic devices that exploit non-Abelian topology for robust and programmable control of light.
+
+- Non-Abelian braiding devices, designed with coupled-mode theory, verified by FDTD simulation, and experimentally characterized after fabrication.
+- Topological unitary circuits, now in fabrication through a Ligentec foundry run.
+
+::: {.research-links}
+Manuscripts in preparation
+:::

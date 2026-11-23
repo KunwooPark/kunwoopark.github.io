@@ -4,42 +4,42 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download CV (PDF)"
+    "text": "Download CV (PDF)\n\n  This browser cannot show the PDF here. Open the CV (PDF)."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Programmable photonic unitary circuits provide a scalable hardware platform for AI computing with light (review: Nanophotonics 14, 1429 (2025)).\nToward all-optical neural networks, I co-invented a nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides to provide power-preserving optical nonlinearity (KR patent; US/EP applications published).\nMy device work is on the silicon nitride (SiN) platform, covering simulation (Tidy3D, COMSOL), layout (gdsfactory, PhotonForge, KLayout), tape-out through in-house fabrication and a foundry multi-project-wafer run using the Ligentec PDK, and optical characterization of the fabricated circuits."
+    "text": "Programmable photonic circuits offer a scalable hardware platform for AI computing with light. I design silicon nitride (SiN) photonic integrated circuits, from device modeling and simulation to layout, foundry tape-out, and optical measurement.\n\nA nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides, providing power-preserving nonlinearity for optical neural networks.\nA review of programmable photonic unitary circuits and their fidelity–scalability trade-offs for light computing.\n\n\nReview in Nanophotonics (2025) · Patent"
   },
   {
     "objectID": "research.html#integrated-photonics",
     "href": "research.html#integrated-photonics",
     "title": "Research",
     "section": "",
-    "text": "Programmable photonic unitary circuits provide a scalable hardware platform for AI computing with light (review: Nanophotonics 14, 1429 (2025)).\nToward all-optical neural networks, I co-invented a nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides to provide power-preserving optical nonlinearity (KR patent; US/EP applications published).\nMy device work is on the silicon nitride (SiN) platform, covering simulation (Tidy3D, COMSOL), layout (gdsfactory, PhotonForge, KLayout), tape-out through in-house fabrication and a foundry multi-project-wafer run using the Ligentec PDK, and optical characterization of the fabricated circuits."
+    "text": "Programmable photonic circuits offer a scalable hardware platform for AI computing with light. I design silicon nitride (SiN) photonic integrated circuits, from device modeling and simulation to layout, foundry tape-out, and optical measurement.\n\nA nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides, providing power-preserving nonlinearity for optical neural networks.\nA review of programmable photonic unitary circuits and their fidelity–scalability trade-offs for light computing.\n\n\nReview in Nanophotonics (2025) · Patent"
   },
   {
-    "objectID": "research.html#disordered-photonics",
-    "href": "research.html#disordered-photonics",
+    "objectID": "research.html#optical-inverse-design",
+    "href": "research.html#optical-inverse-design",
     "title": "Research",
-    "section": "Disordered Photonics",
-    "text": "Disordered Photonics\n\nEngineered disorder offers new ways to control light in complex photonic media. My research focuses on scalable models and design methods for these systems, including hypergraph compression of wave scattering that designs large-scale disordered photonic systems with \\(O(N^{1/L})\\) time complexity, breaking the conventional \\(O(N)\\) limit (code).\nOur recent work extends hyperuniformity and stealthiness to non-Hermitian materials, revealing how correlations between gain and loss enable directional control of scattering.\nRelated publications: Hypergraph compression · Non-Hermitian stealthy hyperuniformity"
+    "section": "Optical Inverse Design",
+    "text": "Optical Inverse Design\n\nDesigning large-scale optical materials is limited by the cost of computing how light scatters. I develop inverse-design methods that describe wave scattering with graphs and hypergraphs, enabling fast design of disordered optical materials with targeted scattering.\n\nHypergraph compression of wave scattering designs large-scale materials with \\(O(N^{1/L})\\) time complexity, breaking the conventional \\(O(N)\\) limit.\nCorrelated gain and loss extend hyperuniformity and stealthiness to non-Hermitian materials, enabling directional control of scattering.\n\n\nHypergraph compression · Code · Non-Hermitian stealthy hyperuniformity · Heterogeneous networks"
   },
   {
     "objectID": "research.html#topological-photonics",
     "href": "research.html#topological-photonics",
     "title": "Research",
     "section": "Topological Photonics",
-    "text": "Topological Photonics\n\nTopological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.\nI develop SiN photonic devices that exploit non-Abelian topology to realize robust and programmable control of light.\nI designed devices for non-Abelian braiding of light using coupled-mode theory with Tidy3D verification and experimentally characterized the fabricated devices, and designed topological unitary circuits that are now in fabrication through a Ligentec foundry run."
+    "text": "Topological Photonics\n\nTopological photonics protects light against fabrication imperfections and experimental perturbations. I develop SiN photonic devices that exploit non-Abelian topology for robust and programmable control of light.\n\nNon-Abelian braiding devices, designed with coupled-mode theory, verified by FDTD simulation, and experimentally characterized after fabrication.\nTopological unitary circuits, now in fabrication through a Ligentec foundry run.\n\n\nManuscripts in preparation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Kunwoo Park\n\n\n\n\nKunwoo Park\n\nPh.D. Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu\n\n\n\n\n\nI conduct theoretical and experimental research in integrated, disordered, and topological photonics, aiming to realize AI computing with light.\n\n\n Email  GitHub  LinkedIn  Google Scholar"
+    "text": "Kunwoo Park\n\n\n\n\nKunwoo Park\n\nPh.D. Student\nDepartment of Electrical and Computer Engineering\nSeoul National University\nSupervisor: Sunkyu Yu\n\n\n\n\n\nI design and test silicon nitride photonic chips for AI computing with light, using wave physics to make them scalable and robust.\n\n\n Email  GitHub  LinkedIn  Google Scholar"
   },
   {
     "objectID": "publications.html",

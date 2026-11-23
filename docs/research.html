@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Research on integrated photonic circuits, hypergraph models of disordered materials, and topological control of light.">
+<meta name="description" content="Integrated photonics, optical inverse design, and topological photonics toward AI computing with light.">
 
 <title>Research – Kunwoo Park</title>
 <style>
@@ -105,13 +105,13 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Research – Kunwoo Park">
-<meta property="og:description" content="Research on integrated photonic circuits, hypergraph models of disordered materials, and topological control of light.">
+<meta property="og:description" content="Kunwoo Park is a Ph.D.&nbsp;student at Seoul National University researching integrated photonics, optical inverse design, and topological photonics for AI computing with light.">
 <meta property="og:image" content="https://kunwoopark.github.io/images/Integrated Photonics.jpg">
 <meta property="og:site_name" content="Kunwoo Park">
-<meta property="og:image:alt" content="Integrated photonics research image">
+<meta property="og:image:alt" content="A mesh of Mach-Zehnder interferometers implementing a linear unitary transform, followed by nonlinear elements">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed research-page fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -164,11 +164,6 @@ window.Quarto = {
 <h1 class="title">Research</h1>
 </div>
 
-<div>
-  <div class="description">
-    Research on integrated photonic circuits, hypergraph models of disordered materials, and topological control of light.
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -185,24 +180,39 @@ window.Quarto = {
 
 <section id="integrated-photonics" class="level2">
 <h2 class="anchored" data-anchor-id="integrated-photonics">Integrated Photonics</h2>
-<p><img src="images/Integrated Photonics.jpg" class="research-image img-fluid" alt="Integrated photonics research image"></p>
-<p>Programmable photonic unitary circuits provide a scalable hardware platform for AI computing with light (<a href="https://doi.org/10.1515/nanoph-2024-0602">review: Nanophotonics 14, 1429 (2025)</a>).<br>
-Toward all-optical neural networks, I co-invented a nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides to provide power-preserving optical nonlinearity (KR patent; US/EP applications published).<br>
-My device work is on the silicon nitride (SiN) platform, covering simulation (Tidy3D, COMSOL), layout (gdsfactory, PhotonForge, KLayout), tape-out through in-house fabrication and a foundry multi-project-wafer run using the Ligentec PDK, and optical characterization of the fabricated circuits.</p>
+<p><img src="images/Integrated Photonics.jpg" class="research-image img-fluid" alt="A mesh of Mach-Zehnder interferometers implementing a linear unitary transform, followed by nonlinear elements"></p>
+<p>Programmable photonic circuits offer a scalable hardware platform for AI computing with light. I design silicon nitride (SiN) photonic integrated circuits, from device modeling and simulation to layout, foundry tape-out, and optical measurement.</p>
+<ul>
+<li>A nonlinear unitary optical device that combines a Mach-Zehnder interferometer with resonator-coupled waveguides, providing power-preserving nonlinearity for optical neural networks.</li>
+<li>A review of programmable photonic unitary circuits and their fidelity–scalability trade-offs for light computing.</li>
+</ul>
+<div class="research-links">
+<p><a href="https://doi.org/10.1515/nanoph-2024-0602">Review in Nanophotonics (2025)</a> · <a href="publications.html#patents">Patent</a></p>
+</div>
 </section>
-<section id="disordered-photonics" class="level2">
-<h2 class="anchored" data-anchor-id="disordered-photonics">Disordered Photonics</h2>
-<p><img src="images/Disordered Photonics.jpg" class="research-image img-fluid" loading="lazy" decoding="async" alt="Disordered photonics research image"></p>
-<p>Engineered disorder offers new ways to control light in complex photonic media. My research focuses on scalable models and design methods for these systems, including hypergraph compression of wave scattering that designs large-scale disordered photonic systems with <span class="math inline">\(O(N^{1/L})\)</span> time complexity, breaking the conventional <span class="math inline">\(O(N)\)</span> limit (<a href="https://github.com/KunwooPark/Scattering-Hypergraph">code</a>).</p>
-<p>Our recent work extends hyperuniformity and stealthiness to non-Hermitian materials, revealing how correlations between gain and loss enable directional control of scattering.</p>
-<p>Related publications: <a href="https://arxiv.org/abs/2507.15329">Hypergraph compression</a> · <a href="https://doi.org/10.1002/advs.77054">Non-Hermitian stealthy hyperuniformity</a></p>
+<section id="optical-inverse-design" class="level2">
+<h2 class="anchored" data-anchor-id="optical-inverse-design">Optical Inverse Design</h2>
+<p><img src="images/Optical Inverse Design.jpg" class="research-image img-fluid" loading="lazy" decoding="async" alt="A seed particle set is combined into a large material whose wave scattering is modelled as a hypergraph"></p>
+<p>Designing large-scale optical materials is limited by the cost of computing how light scatters. I develop inverse-design methods that describe wave scattering with graphs and hypergraphs, enabling fast design of disordered optical materials with targeted scattering.</p>
+<ul>
+<li>Hypergraph compression of wave scattering designs large-scale materials with <span class="math inline">\(O(N^{1/L})\)</span> time complexity, breaking the conventional <span class="math inline">\(O(N)\)</span> limit.</li>
+<li>Correlated gain and loss extend hyperuniformity and stealthiness to non-Hermitian materials, enabling directional control of scattering.</li>
+</ul>
+<div class="research-links">
+<p><a href="https://arxiv.org/abs/2507.15329">Hypergraph compression</a> · <a href="https://github.com/KunwooPark/Scattering-Hypergraph">Code</a> · <a href="https://doi.org/10.1002/advs.77054">Non-Hermitian stealthy hyperuniformity</a> · <a href="https://doi.org/10.1002/adom.202503499">Heterogeneous networks</a></p>
+</div>
 </section>
 <section id="topological-photonics" class="level2">
 <h2 class="anchored" data-anchor-id="topological-photonics">Topological Photonics</h2>
-<p><img src="images/Topological Photonics.jpg" class="research-image img-fluid" loading="lazy" decoding="async" alt="Topological photonics research image"></p>
-<p>Topological photonics promises robust optical information processing by protecting light against fabrication imperfections and experimental perturbations.<br>
-I develop SiN photonic devices that exploit non-Abelian topology to realize robust and programmable control of light.<br>
-I designed devices for non-Abelian braiding of light using coupled-mode theory with Tidy3D verification and experimentally characterized the fabricated devices, and designed topological unitary circuits that are now in fabrication through a Ligentec foundry run.</p>
+<p><img src="images/Topological Photonics.jpg" class="research-image img-fluid" loading="lazy" decoding="async" alt="Evolution of a light state on the Bloch sphere during non-Abelian braiding"></p>
+<p>Topological photonics protects light against fabrication imperfections and experimental perturbations. I develop SiN photonic devices that exploit non-Abelian topology for robust and programmable control of light.</p>
+<ul>
+<li>Non-Abelian braiding devices, designed with coupled-mode theory, verified by FDTD simulation, and experimentally characterized after fabrication.</li>
+<li>Topological unitary circuits, now in fabrication through a Ligentec foundry run.</li>
+</ul>
+<div class="research-links">
+<p>Manuscripts in preparation</p>
+</div>
 
 
 </section>
