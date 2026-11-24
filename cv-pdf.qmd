@@ -65,15 +65,14 @@ Ph.D. Student, Department of Electrical and Computer Engineering, Seoul National
 
 # Summary
 
-Ph.D. student in photonics with hands-on silicon nitride (SiN) integrated photonics experience, from device design and FDTD simulation to Python-scripted layout, foundry-PDK tape-out, and optical measurement. Research spans programmable photonic circuits for optical computing, optical inverse design, and topological photonics.
+Ph.D. student in photonics with hands-on silicon nitride (SiN) integrated photonics experience, from device design and FDTD simulation to Python-scripted layout, foundry-PDK tape-out, and optical measurement. Research spans programmable photonic circuits, optical inverse design, topological photonics, and quantum optics experiments.
 
 # Education
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
 \textbf{Ph.D. Program (Integrated M.S./Ph.D.)}, Electrical and Computer Engineering & 2024.09 -- present \\
 Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Yu} & \textit{Expected: 2029.08} \\[6pt]
-\textbf{B.S.}, Electrical and Computer Engineering & 2018.03 -- 2024.08 \\
-Seoul National University & \\[6pt]
+\textbf{B.S.}, Electrical and Computer Engineering, Seoul National University & 2018.03 -- 2024.08 \\[6pt]
 \textbf{Military Service}, Republic of Korea Army & 2020.12 -- 2022.06 \\
 \end{tabularx}
 
@@ -84,6 +83,11 @@ Seoul National University & \\[6pt]
 - Scripted the tape-out layout of topological unitary circuits in PhotonForge with the Ligentec SiN PDK for a foundry MPW run (chips in fabrication).
 - Designed non-Abelian braiding devices with coupled-mode theory, verified them in Tidy3D FDTD, and characterized the fabricated passive circuits (manuscript in preparation).
 
+## Quantum optics experiments
+
+- Since 2025, lead a five-member team on Hong–Ou–Mandel interference with SPDC photon pairs.
+- Developing reinforcement-learning control of mirror alignment and path delay to maximize HOM visibility.
+
 ## Programmable photonic circuits for optical computing
 
 - Co-invented a nonlinear unitary optical device (an MZI with resonator-coupled waveguides) for optical neural networks; KR patent registered, US/EP applications published.
@@ -92,14 +96,14 @@ Seoul National University & \\[6pt]
 ## Optical inverse design
 
 - Developed hypergraph compression of wave scattering that designs disordered optical materials with $O(N^{1/L})$ time complexity, beyond the conventional $O(N)$ limit (first author; \href{https://github.com/KunwooPark/Scattering-Hypergraph}{Python code}).
-- Developed network-based inverse-design methods for multiphase and non-Hermitian scattering media (*Adv. Opt. Mater.* 2026; CLEO-PR 2024; SPIE 2025).
+- Developed network-based inverse design of multiphase and non-Hermitian media (*Adv. Opt. Mater.* 2026).
 
 # Skills
 
 - **Layout and tape-out:** PhotonForge, gdsfactory, KLayout; Ligentec SiN PDK, MPW tape-out
 - **Simulation and modeling:** Tidy3D (FDTD), COMSOL; coupled-mode theory, scattering-matrix models
-- **Programming:** Python (layout and simulation automation); agentic coding (Claude Code, Codex)
-- **Devices and measurement:** SiN waveguides, MZI meshes, microring resonators; passive-circuit testing
+- **Programming:** Python (layout, simulation, experiment automation); agentic coding (Claude Code, Codex)
+- **Measurement:** passive SiN circuit testing; SPDC photon pairs, SPAD/TCSPC coincidence counting
 
 # Grants and Fellowships
 

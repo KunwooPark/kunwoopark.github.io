@@ -172,6 +172,14 @@ ol {
   object-fit: cover;
 }
 
+/* data plots keep their own aspect ratio instead of the banner crop */
+.research-image.research-plot {
+  width: min(100%, 400px);
+  max-height: none;
+  object-fit: contain;
+  background: #fff;
+}
+
 /* litera sets Georgia on paragraphs only; keep list text in the same face */
 #quarto-document-content li {
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;

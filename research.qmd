@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description-meta: "Integrated photonics, optical inverse design, and topological photonics toward AI computing with light."
+description-meta: "Integrated, topological, and quantum photonics, and optical inverse design for computing with light."
 format:
   html:
     body-classes: research-page
@@ -43,4 +43,17 @@ Topological photonics protects light against fabrication imperfections and exper
 
 ::: {.research-links}
 Manuscripts in preparation
+:::
+
+## Quantum Photonics
+
+![](images/Quantum%20Photonics.png){.research-image .research-plot fig-alt="Hong-Ou-Mandel dip: coincidence counts versus path delay, with 89.3% visibility" loading="lazy" decoding="async"}
+
+Photonic quantum technologies rely on indistinguishable photons and precisely aligned optics. I lead a five-member quantum optics team in our lab, building photon-pair experiments and automating how they are tuned.
+
+- Hong–Ou–Mandel interference of photon pairs from spontaneous parametric down-conversion, measured by time-correlated coincidence counting.
+- Reinforcement-learning control of mirror alignment and path delay that maximizes interference visibility without manual tuning.
+
+::: {.research-links}
+Ongoing work
 :::

@@ -35,6 +35,13 @@
     "text": "Topological Photonics\n\nTopological photonics protects light against fabrication imperfections and experimental perturbations. I develop SiN photonic devices that exploit non-Abelian topology for robust and programmable control of light.\n\nNon-Abelian braiding devices, designed with coupled-mode theory, verified by FDTD simulation, and experimentally characterized after fabrication.\nTopological unitary circuits, now in fabrication through a Ligentec foundry run.\n\n\nManuscripts in preparation"
   },
   {
+    "objectID": "research.html#quantum-photonics",
+    "href": "research.html#quantum-photonics",
+    "title": "Research",
+    "section": "Quantum Photonics",
+    "text": "Quantum Photonics\n\nPhotonic quantum technologies rely on indistinguishable photons and precisely aligned optics. I lead a five-member quantum optics team in our lab, building photon-pair experiments and automating how they are tuned.\n\nHong–Ou–Mandel interference of photon pairs from spontaneous parametric down-conversion, measured by time-correlated coincidence counting.\nReinforcement-learning control of mirror alignment and path delay that maximizes interference visibility without manual tuning.\n\n\nOngoing work"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
