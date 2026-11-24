@@ -152,6 +152,6 @@ Ministry of Education / National Research Foundation of Korea \quad \textit{Prin
 
 \begin{tabularx}{\textwidth}{@{} X r @{}}
 Teaching Assistant, \textbf{Introduction to Electromagnetism with Practice} (Undergraduate) & Fall 2026 (ongoing) \\[2pt]
-Teaching Assistant, \textbf{Application of Quantum Mechanics} (Graduate) & Spring 2025 \\[2pt]
+Teaching Assistant, \textbf{Application of Quantum Mechanics} (Undergraduate) & Spring 2025 \\[2pt]
 Teaching Assistant, \textbf{Topics in Electro-physics} (Graduate) & Spring 2025 \\
 \end{tabularx}
