@@ -85,7 +85,7 @@ Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Y
 
 ## Quantum optics experiments
 
-- Since 2025, lead a five-member team on Hong–Ou–Mandel interference with SPDC photon pairs.
+- Lead a five-member team (since 2025) running Hong–Ou–Mandel (HOM) experiments with SPDC photon pairs.
 - Developing reinforcement-learning control of mirror alignment and path delay to maximize HOM visibility.
 
 ## Programmable photonic circuits for optical computing
@@ -96,7 +96,7 @@ Seoul National University \quad Advisor: \href{https://waves.snu.ac.kr}{Sunkyu Y
 ## Optical inverse design
 
 - Developed hypergraph compression of wave scattering that designs disordered optical materials with $O(N^{1/L})$ time complexity, beyond the conventional $O(N)$ limit (first author; \href{https://github.com/KunwooPark/Scattering-Hypergraph}{Python code}).
-- Developed network-based inverse design of multiphase and non-Hermitian media (*Adv. Opt. Mater.* 2026).
+- Co-developed network-based inverse design of multiphase and non-Hermitian media (*Adv. Opt. Mater.* 2026).
 
 # Skills
 
